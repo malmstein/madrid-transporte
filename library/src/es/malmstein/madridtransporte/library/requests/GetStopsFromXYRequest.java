@@ -6,7 +6,7 @@ import java.util.List;
 import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;
 
-import es.malmstein.madridtransporte.library.model.Constants;
+import es.malmstein.madridtransporte.library.model.MTConstants;
 
 public class GetStopsFromXYRequest extends Request{
 
@@ -21,7 +21,7 @@ public class GetStopsFromXYRequest extends Request{
     
     public GetStopsFromXYRequest(String coordX, String coordY, String radius, String statistics, String culture){
     	
-    	this.setRequestPath(Constants.getApiResourcePath(Constants.API_METHOD.GetStopsFromXYURL));
+    	this.setRequestPath(MTConstants.getApiResourcePath(MTConstants.API_METHOD.GetStopsFromXYURL));
     	
 		List<NameValuePair> localArrayList = new ArrayList<NameValuePair>(2);
 	    localArrayList.add(new BasicNameValuePair(REQUEST_OBJECT.COORDINATE_X, coordX));

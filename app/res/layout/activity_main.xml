@@ -1,15 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent" >
+    xmlns:app="http://schemas.android.com/apk/res/es.malmstein.madridtransporte.app"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
 
-    <TextView
-        android:layout_width="wrap_content"
+    <View
+        android:id="@+id/light"
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#42BDEF" />
+    
+    <com.astuetz.viewpager.extensions.FixedTabsView
+        android:id="@+id/fixed_icon_tabs"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        android:padding="@dimen/padding_medium"
-        android:text="@string/hello_world"
-        tools:context=".MainActivity" />
+        android:background="#39B5EF"
+        app:dividerColor="#33FFFFFF"
+        app:dividerMarginBottom="12dip"
+        android:layout_below="@+id/light"
+        app:dividerMarginTop="12dip" />
+
+    <View
+        android:id="@+id/shadow"
+        android:layout_width="fill_parent"
+        android:layout_height="3dip"
+        android:layout_below="@+id/fixed_icon_tabs"
+        android:background="@drawable/shadow" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/shadow" />
+
 
 </RelativeLayout>

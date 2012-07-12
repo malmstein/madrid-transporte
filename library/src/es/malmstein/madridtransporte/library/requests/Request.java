@@ -6,7 +6,7 @@ import java.util.List;
 import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;
 
-import es.malmstein.madridtransporte.library.model.Constants;
+import es.malmstein.madridtransporte.library.model.MTConstants;
 
 public class Request {
 	
@@ -32,8 +32,8 @@ public class Request {
 		try {
 			
 			List<NameValuePair> localArrayList = new ArrayList<NameValuePair>(2);
-		    localArrayList.add(new BasicNameValuePair(Constants.API_REQUEST_OBJECT.ID_CLIENT, icClient));
-		    localArrayList.add(new BasicNameValuePair(Constants.API_REQUEST_OBJECT.PASS_KEY, passKey));
+		    localArrayList.add(new BasicNameValuePair(MTConstants.API_REQUEST_OBJECT.ID_CLIENT, icClient));
+		    localArrayList.add(new BasicNameValuePair(MTConstants.API_REQUEST_OBJECT.PASS_KEY, passKey));
 		    
 		    for (NameValuePair pair : callParameters){
 		    	localArrayList.add(pair);

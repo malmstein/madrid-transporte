@@ -3,7 +3,6 @@ package es.malmstein.madridtransporte.library.objects;
 import java.util.ArrayList;
 import java.util.List;
 
-import android.database.Cursor;
 import android.location.Location;
 
 public class Stop

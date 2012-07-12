@@ -1,6 +1,6 @@
 package es.malmstein.madridtransporte.library.model;
 
-public class Constants {
+public class MTConstants {
 
     // BUSGSENSE
     public static String BUGSENSE_API = "7ad52340";

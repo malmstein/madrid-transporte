@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.astuetz.viewpager.extensions.ViewPagerTabButton xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/es.malmstein.madridtransporte.app"
+    android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:background="@drawable/tab_icon_background"
+    android:drawablePadding="10dip"
+    android:gravity="center"
+    app:lineColor="#31ADE7"
+    app:lineColorSelected="#FFF"
+    app:lineHeight="2dip"
+    app:lineHeightSelected="6dip"
+    android:paddingTop="11dip"
+    android:textSize="1sp" />

@@ -46,9 +46,9 @@ import es.malmstein.madridtransporte.library.response.GetStopsFromXYResponse;
 import es.malmstein.madridtransporte.library.utils.EasySSLSocketFactory;
 import es.malmstein.madridtransporte.library.utils.LibraryUtils;
 
-public class Engine {
+public class MTEngine {
 
-	private static Engine instance;
+	private static MTEngine instance;
 	private Context context;
 	
 	public Context getContext() {
@@ -59,23 +59,23 @@ public class Engine {
 		this.context = context;
 	}
 
-	private Engine(Context cxt){
+	private MTEngine(Context cxt){
 		this.setContext(cxt);
 	}
 
 	public static void startInstance(Context ctx) {
 		if (instance == null) {
-			instance = new Engine(ctx);
+			instance = new MTEngine(ctx);
 		}
 		
-		BugSenseHandler.setup(ctx, Constants.BUGSENSE_API);
+		BugSenseHandler.setup(ctx, MTConstants.BUGSENSE_API);
 	}
 
 	public static void stopInstance() {
 		instance = null;
 	}
 
-	public static Engine getInstance() {
+	public static MTEngine getInstance() {
 		return instance;
 	}
 	
@@ -111,8 +111,8 @@ public class Engine {
 			url = new URL(request.getRequestPath());				
 		}
 		catch (MalformedURLException e) {
-		    BugSenseHandler.log(Constants.BUGSENSE_LIB_TAG, e);
-			throw new Exception( e.toString()+" AT REQUEST SERVER METHOD IN "+ Engine.class.toString());
+		    BugSenseHandler.log(MTConstants.BUGSENSE_LIB_TAG, e);
+			throw new Exception( e.toString()+" AT REQUEST SERVER METHOD IN "+ MTEngine.class.toString());
 		}
 		
 		DefaultHttpClient httpclient = getSecureHttpClient();
@@ -147,13 +147,13 @@ public class Engine {
 		}
 		catch (ClientProtocolException e)
 		{
-		    BugSenseHandler.log(Constants.BUGSENSE_LIB_TAG, e);
-			throw new Exception(e.toString()+" AT REQUEST SERVER MEHTOD IN "+Engine.class.toString());
+		    BugSenseHandler.log(MTConstants.BUGSENSE_LIB_TAG, e);
+			throw new Exception(e.toString()+" AT REQUEST SERVER MEHTOD IN "+MTEngine.class.toString());
 		}
 		catch (IOException e)
 		{
-		    BugSenseHandler.log(Constants.BUGSENSE_LIB_TAG, e);
-			throw new Exception(e.toString()+" AT REQUEST SERVER MEHTOD IN "+Engine.class.toString());
+		    BugSenseHandler.log(MTConstants.BUGSENSE_LIB_TAG, e);
+			throw new Exception(e.toString()+" AT REQUEST SERVER MEHTOD IN "+MTEngine.class.toString());
 		}
 		
 		return null;
@@ -195,7 +195,7 @@ public class Engine {
 		}
 		catch (Exception e)
 		{
-		    BugSenseHandler.log(Constants.BUGSENSE_LIB_TAG, e);
+		    BugSenseHandler.log(MTConstants.BUGSENSE_LIB_TAG, e);
 			return new DefaultHttpClient();
 		}
 	}
@@ -221,7 +221,7 @@ public class Engine {
             
             return out.toString();        
 	    } catch (Exception e1) {
-	        BugSenseHandler.log(Constants.BUGSENSE_LIB_TAG, e1);
+	        BugSenseHandler.log(MTConstants.BUGSENSE_LIB_TAG, e1);
 	        e1.printStackTrace();
 	    }
         

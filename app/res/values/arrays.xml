@@ -1,0 +1,2570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   	<string-array name="array_top_navigation">
+        <item>Voy en Bus</item>
+        <item>Voy en Metro</item>
+        <item>Voy en Cercanías</item>
+  	</string-array>
+        
+    <string-array name="array_id_estaciones_metro">
+        <item>1102</item>
+        <item>519</item>
+        <item>806</item>
+        <item>808</item>
+        <item>552</item>
+        <item>1203</item>
+        <item>413</item>
+        <item>3124</item>
+        <item>712</item>
+        <item>404</item>
+        <item>1219</item>
+        <item>253</item>
+        <item>24</item>
+        <item>627</item>
+        <item>527</item>
+        <item>6</item>
+        <item>5115</item>
+        <item>15</item>
+        <item>718</item>
+        <item>5114</item>
+        <item>928</item>
+        <item>608</item>
+        <item>310</item>
+        <item>1217</item>
+        <item>917</item>
+        <item>415</item>
+        <item>705</item>
+        <item>16</item>
+        <item>17</item>
+        <item>411</item>
+        <item>5222</item>
+        <item>254</item>
+        <item>720</item>
+        <item>414</item>
+        <item>1018</item>
+        <item>152</item>
+        <item>35</item>
+        <item>807</item>
+        <item>707</item>
+        <item>902</item>
+        <item>754</item>
+        <item>1014</item>
+        <item>1059</item>
+        <item>1002</item>
+        <item>5219</item>
+        <item>5223</item>
+        <item>10</item>
+        <item>5116</item>
+        <item>5325</item>
+        <item>23</item>
+        <item>307</item>
+        <item>529</item>
+        <item>805</item>
+        <item>5221</item>
+        <item>42</item>
+        <item>417</item>
+        <item>501</item>
+        <item>5322</item>
+        <item>525</item>
+        <item>1105</item>
+        <item>602</item>
+        <item>709</item>
+        <item>530</item>
+        <item>1227</item>
+        <item>1</item>
+        <item>513</item>
+        <item>354</item>
+        <item>5314</item>
+        <item>5312</item>
+        <item>504</item>
+        <item>622</item>
+        <item>5315</item>
+        <item>802</item>
+        <item>405</item>
+        <item>5213</item>
+        <item>1016</item>
+        <item>908</item>
+        <item>611</item>
+        <item>28</item>
+        <item>1218</item>
+        <item>755</item>
+        <item>909</item>
+        <item>7</item>
+        <item>1019</item>
+        <item>1005</item>
+        <item>302</item>
+        <item>410</item>
+        <item>5220</item>
+        <item>905</item>
+        <item>1224</item>
+        <item>551</item>
+        <item>507</item>
+        <item>1225</item>
+        <item>1222</item>
+        <item>304</item>
+        <item>528</item>
+        <item>416</item>
+        <item>5224</item>
+        <item>751</item>
+        <item>5</item>
+        <item>915</item>
+        <item>526</item>
+        <item>5324</item>
+        <item>716</item>
+        <item>1001</item>
+        <item>1214</item>
+        <item>5112</item>
+        <item>704</item>
+        <item>1220</item>
+        <item>32</item>
+        <item>12</item>
+        <item>711</item>
+        <item>620</item>
+        <item>759</item>
+        <item>901</item>
+        <item>421</item>
+        <item>1061</item>
+        <item>1212</item>
+        <item>1208</item>
+        <item>760</item>
+        <item>1228</item>
+        <item>352</item>
+        <item>913</item>
+        <item>9</item>
+        <item>5328</item>
+        <item>714</item>
+        <item>758</item>
+        <item>1020</item>
+        <item>5313</item>
+        <item>1221</item>
+        <item>1226</item>
+        <item>252</item>
+        <item>29</item>
+        <item>1107</item>
+        <item>128</item>
+        <item>1055</item>
+        <item>517</item>
+        <item>1056</item>
+        <item>1106</item>
+        <item>927</item>
+        <item>756</item>
+        <item>721</item>
+        <item>1013</item>
+        <item>601</item>
+        <item>701</item>
+        <item>255</item>
+        <item>129</item>
+        <item>1053</item>
+        <item>305</item>
+        <item>1229</item>
+        <item>301</item>
+        <item>409</item>
+        <item>1210</item>
+        <item>1223</item>
+        <item>628</item>
+        <item>422</item>
+        <item>31</item>
+        <item>1058</item>
+        <item>1209</item>
+        <item>418</item>
+        <item>5117</item>
+        <item>521</item>
+        <item>1057</item>
+        <item>609</item>
+        <item>18</item>
+        <item>621</item>
+        <item>25</item>
+        <item>951</item>
+        <item>311</item>
+        <item>1052</item>
+        <item>5318</item>
+        <item>1206</item>
+        <item>39</item>
+        <item>21</item>
+        <item>5326</item>
+        <item>618</item>
+        <item>510</item>
+        <item>613</item>
+        <item>604</item>
+        <item>37</item>
+        <item>523</item>
+        <item>19</item>
+        <item>5118</item>
+        <item>303</item>
+        <item>1103</item>
+        <item>708</item>
+        <item>1215</item>
+        <item>1213</item>
+        <item>1202</item>
+        <item>1204</item>
+        <item>420</item>
+        <item>918</item>
+        <item>719</item>
+        <item>153</item>
+        <item>803</item>
+        <item>906</item>
+        <item>520</item>
+        <item>723</item>
+        <item>605</item>
+        <item>308</item>
+        <item>2</item>
+        <item>22</item>
+        <item>5217</item>
+        <item>1207</item>
+        <item>5320</item>
+        <item>5214</item>
+        <item>5212</item>
+        <item>625</item>
+        <item>33</item>
+        <item>412</item>
+        <item>505</item>
+        <item>20</item>
+        <item>626</item>
+        <item>922</item>
+        <item>5329</item>
+        <item>1021</item>
+        <item>518</item>
+        <item>41</item>
+        <item>506</item>
+        <item>617</item>
+        <item>5316</item>
+        <item>34</item>
+        <item>1060</item>
+        <item>8</item>
+        <item>925</item>
+        <item>924</item>
+        <item>926</item>
+        <item>1054</item>
+        <item>511</item>
+        <item>612</item>
+        <item>40</item>
+        <item>702</item>
+        <item>921</item>
+        <item>356</item>
+        <item>353</item>
+        <item>757</item>
+        <item>1104</item>
+        <item>419</item>
+        <item>1230</item>
+        <item>1006</item>
+        <item>38</item>
+        <item>406</item>
+        <item>36</item>
+        <item>26</item>
+        <item>5327</item>
+        <item>703</item>
+        <item>13</item>
+        <item>5216</item>
+        <item>5215</item>
+        <item>503</item>
+        <item>4</item>
+        <item>14</item>
+        <item>502</item>
+        <item>1051</item>
+        <item>11</item>
+        <item>1205</item>
+        <item>522</item>
+        <item>606</item>
+        <item>3</item>
+        <item>919</item>
+        <item>130</item>
+        <item>717</item>
+        <item>407</item>
+        <item>30</item>
+        <item>903</item>
+        <item>5319</item>
+        <item>309</item>
+        <item>920</item>
+        <item>27</item>
+        <item>357</item>
+        <item>355</item>
+        <item>916</item>
+        <item>5113</item>
+        <item>524</item>
+    </string-array>
+    <string-array name="array_estaciones_metro">
+        <item>Abrantes</item>
+        <item>Acacias</item>
+        <item>Aeropuerto T1 T2 T3</item>
+        <item>Aeropuerto T4</item>
+        <item>Alameda de Osuna</item>
+        <item>Alcorcon Central</item>
+        <item>Alfonso XIII</item>
+        <item>Almendrales</item>
+        <item>Alonso Cano</item>
+        <item>Alonso Martinez</item>
+        <item>Alonso de Mendoza</item>
+        <item>Alsacia</item>
+        <item>Alto del Arenal</item>
+        <item>Alto de Extremadura</item>
+        <item>Aluche</item>
+        <item>Alvarado</item>
+        <item>Alvarez de Villaamil</item>
+        <item>Anton Martin</item>
+        <item>Antonio Machado</item>
+        <item>Antonio Saura</item>
+        <item>Arganda del Rey</item>
+        <item>Arganzuela - Planetario</item>
+        <item>Argüelles</item>
+        <item>Arroyo Culebro</item>
+        <item>Artilleros</item>
+        <item>Arturo Soria</item>
+        <item>Ascao</item>
+        <item>Atocha</item>
+        <item>Atocha Renfe</item>
+        <item>Avenida de America</item>
+        <item>Avenida de Europa</item>
+        <item>Avenida de Guadalajara</item>
+        <item>Avenida de la Ilustracion</item>
+        <item>Avenida de la Paz</item>
+        <item>Aviacion Española</item>
+        <item>Bambu</item>
+        <item>Banco de España</item>
+        <item>Barajas</item>
+        <item>Barrio de la Concepcion</item>
+        <item>Barrio del Pilar</item>
+        <item>Barrio del Puerto</item>
+        <item>Batan</item>
+        <item>Baunatal</item>
+        <item>Begoña</item>
+        <item>Belgica</item>
+        <item>Berna</item>
+        <item>Bilbao</item>
+        <item>Blasco Ibañez</item>
+        <item>Boadilla Centro</item>
+        <item>Buenos Aires</item>
+        <item>Callao</item>
+        <item>Campamento</item>
+        <item>Campo de las Naciones</item>
+        <item>Campus de Somosaguas</item>
+        <item>Canal</item>
+        <item>Canillas</item>
+        <item>Canillejas</item>
+        <item>Cantabria</item>
+        <item>Carabanchel</item>
+        <item>Carabanchel Alto</item>
+        <item>Carpetana</item>
+        <item>Cartagena</item>
+        <item>Casa de Campo</item>
+        <item>Casa del Reloj</item>
+        <item>Chamartin</item>
+        <item>Chueca</item>
+        <item>Ciudad de los Angeles</item>
+        <item>Ciudad del Cine</item>
+        <item>Ciudad de la Imagen</item>
+        <item>Ciudad Lineal</item>
+        <item>Ciudad Universitaria</item>
+        <item>Cocheras</item>
+        <item>Colombia</item>
+        <item>Colon</item>
+        <item>Colonia de los Angeles</item>
+        <item>Colonia Jardin</item>
+        <item>Concha Espina</item>
+        <item>Conde de Casal</item>
+        <item>Congosto</item>
+        <item>Conservatorio</item>
+        <item>Coslada Central</item>
+        <item>Cruz del Rayo</item>
+        <item>Cuatro Caminos</item>
+        <item>Cuatro Vientos</item>
+        <item>Cuzco</item>
+        <item>Delicias</item>
+        <item>Diego de Leon</item>
+        <item>Dos Castillas</item>
+        <item>Duque de Pastrana</item>
+        <item>El Bercial</item>
+        <item>El Capricho</item>
+        <item>El Carmen</item>
+        <item>El Carrascal</item>
+        <item>El Casar</item>
+        <item>Embajadores</item>
+        <item>Empalme</item>
+        <item>Esperanza</item>
+        <item>Estación de Aravaca</item>
+        <item>Estadio Olimpico</item>
+        <item>Estrecho</item>
+        <item>Estrella</item>
+        <item>Eugenia de Montijo</item>
+        <item>Ferial de Boadilla</item>
+        <item>Francos Rodriguez</item>
+        <item>Fuencarral</item>
+        <item>Fuenlabrada Central</item>
+        <item>Fuente de la Mora</item>
+        <item>Garcia Noblejas</item>
+        <item>Getafe Central</item>
+        <item>Goya</item>
+        <item>Gran Via</item>
+        <item>Gregorio Marañon</item>
+        <item>Guzman el Bueno</item>
+        <item>Henares</item>
+        <item>Herrera Oria</item>
+        <item>Hortaleza</item>
+        <item>Hospital Infanta Sofia</item>
+        <item>Hospital de Fuenlabrada</item>
+        <item>Hospital de Mostoles</item>
+        <item>Hospital del Henares</item>
+        <item>Hospital Severo Ochoa</item>
+        <item>Hospital de Octubre</item>
+        <item>Ibiza</item>
+        <item>Iglesia</item>
+        <item>Infante Don Luis</item>
+        <item>Islas Filipinas</item>
+        <item>Jarama</item>
+        <item>Joaquin Vilumbrales</item>
+        <item>Jose Isbert</item>
+        <item>Juan de la Cierva</item>
+        <item>Julian Besteiro</item>
+        <item>La Almudena</item>
+        <item>La Elipa</item>
+        <item>La Fortuna</item>
+        <item>La Gavia</item>
+        <item>La Granja</item>
+        <item>La Latina</item>
+        <item>La Moraleja</item>
+        <item>La Peseta</item>
+        <item>La Poveda</item>
+        <item>La Rambla</item>
+        <item>Lacoma</item>
+        <item>Lago</item>
+        <item>Laguna</item>
+        <item>Las Musas</item>
+        <item>Las Rosas</item>
+        <item>Las Suertes</item>
+        <item>Las Tablas</item>
+        <item>Lavapies</item>
+        <item>Leganes Central</item>
+        <item>Legazpi</item>
+        <item>Lista</item>
+        <item>Loranca</item>
+        <item>Los Espartales</item>
+        <item>Lucero</item>
+        <item>Manoteras</item>
+        <item>Manuel Becerra</item>
+        <item>Manuel de Falla</item>
+        <item>Manuela Malasaña</item>
+        <item>Mar de Cristal</item>
+        <item>Maria Tudor</item>
+        <item>Marques de Vadillo</item>
+        <item>Marques de la Valdavia</item>
+        <item>Mendez Alvaro</item>
+        <item>Menendez Pelayo</item>
+        <item>Metropolitano</item>
+        <item>Miguel Hernandez</item>
+        <item>Mirasierra</item>
+        <item>Moncloa</item>
+        <item>Montecarmelo</item>
+        <item>Monteprincipe</item>
+        <item>Mostoles Central</item>
+        <item>Noviciado</item>
+        <item>Nueva Numancia</item>
+        <item>Nuevo Mundo</item>
+        <item>Nuevos Ministerios</item>
+        <item>Nuñez de Balboa</item>
+        <item>"O'Donnell"</item>
+        <item>Opañel</item>
+        <item>Opera</item>
+        <item>Oporto</item>
+        <item>Pacifico</item>
+        <item>Palas de Rey</item>
+        <item>Palos de la Frontera</item>
+        <item>Pan Bendito</item>
+        <item>Parque de las Avenidas</item>
+        <item>Parque de los Estados</item>
+        <item>Parque Europa</item>
+        <item>Parque Lisboa</item>
+        <item>Parque Oeste</item>
+        <item>Parque de Santa Maria</item>
+        <item>Pavones</item>
+        <item>Peñagrande</item>
+        <item>Pinar de Chamartin</item>
+        <item>Pinar del Rey</item>
+        <item>Pio XII</item>
+        <item>Piramides</item>
+        <item>Pitis</item>
+        <item>Plaza Eliptica</item>
+        <item>Plaza de España</item>
+        <item>Plaza de Castilla</item>
+        <item>Portazgo</item>
+        <item>Pozuelo Oeste</item>
+        <item>Pradillo</item>
+        <item>Prado del Espino</item>
+        <item>Prado del Rey</item>
+        <item>Prado de la Vega</item>
+        <item>Principe Pio</item>
+        <item>Principe de Vergara</item>
+        <item>Prosperidad</item>
+        <item>Pueblo Nuevo</item>
+        <item>Puente de Vallecas</item>
+        <item>Puerta del Angel</item>
+        <item>Puerta de Arganda</item>
+        <item>Puerta de Boadilla</item>
+        <item>Puerta del Sur</item>
+        <item>Puerta de Toledo</item>
+        <item>Quevedo</item>
+        <item>Quintana</item>
+        <item>Republica Argentina</item>
+        <item>Retamares</item>
+        <item>Retiro</item>
+        <item>Reyes Catolicos</item>
+        <item>Rios Rosas</item>
+        <item>Rivas Futura</item>
+        <item>Rivas Urbanizaciones</item>
+        <item>Rivas Vaciamadrid</item>
+        <item>Ronda de la Comunicacion</item>
+        <item>Ruben Dario</item>
+        <item>Sainz de Baranda</item>
+        <item>San Bernardo</item>
+        <item>San Blas</item>
+        <item>San Cipriano</item>
+        <item>San Cristobal</item>
+        <item>San Fermin - Orcasur</item>
+        <item>San Fernando</item>
+        <item>San Francisco</item>
+        <item>San Lorenzo</item>
+        <item>San Nicasio</item>
+        <item>Santiago Bernabeu</item>
+        <item>Santo Domingo</item>
+        <item>Serrano</item>
+        <item>Sevilla</item>
+        <item>Sierra de Guadalupe</item>
+        <item>Siglo XXI</item>
+        <item>Simancas</item>
+        <item>Sol</item>
+        <item>Somosaguas Centro</item>
+        <item>Somosaguas Sur</item>
+        <item>Suanzes</item>
+        <item>Tetuan</item>
+        <item>Tirso de Molina</item>
+        <item>Torre Arias</item>
+        <item>Tres Olivos</item>
+        <item>Tribunal</item>
+        <item>Universidad Rey Juan Carlos</item>
+        <item>Urgel</item>
+        <item>Usera</item>
+        <item>Valdeacederas</item>
+        <item>Valdebernardo</item>
+        <item>Valdecarros</item>
+        <item>Valdezarza</item>
+        <item>Velazquez</item>
+        <item>Ventas</item>
+        <item>Ventilla</item>
+        <item>Ventorro del Cano</item>
+        <item>Ventura Rodriguez</item>
+        <item>Vicalvaro</item>
+        <item>Villa de Vallecas</item>
+        <item>Villaverde Alto</item>
+        <item>Villaverde Bajo Cruce</item>
+        <item>Vinateros</item>
+        <item>Virgen del Cortijo</item>
+        <item>Vista Alegre</item>
+    </string-array>
+    <string-array name="array_tipo_dia_metro">
+        <item>Working Day</item>
+        <item>Saturday</item>
+        <item>Sunday and Holidays</item>
+    </string-array>
+    <string-array name="array_hora_metro">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>00</item>
+    </string-array>
+    <string-array name="array_minuto_metro">
+        <item>00</item>
+        <item>05</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+    </string-array>
+    <string-array name="array_tipo_ruta_metro">
+        <item>The Fastest One</item>
+        <item>The Less Changes One</item>
+        <item>The Shortest One</item>
+    </string-array>
+    <string-array name="array_id_tipo_ruta_metro">
+        <item>rapida</item>
+        <item>transbordos</item>
+        <item>corta</item>
+    </string-array>
+    <string-array name="array_estaciones_cercanias">
+        <item>AEROPUERTO T4</item>
+        <item>ALCALA DE HENARES</item>
+        <item>ALCALA DE HENARES UNIVERSIDAD</item>
+        <item>ALCOBENDAS</item>
+        <item>ALCORCON</item>
+        <item>ALPEDRETE</item>
+        <item>ALUCHE</item>
+        <item>ARANJUEZ</item>
+        <item>ARAVACA</item>
+        <item>ASAMBLEA DE MADRID-ENTREVIAS</item>
+        <item>ATOCHA</item>
+        <item>AVILA</item>
+        <item>AZUQUECA</item>
+        <item>CAMORRITOS</item>
+        <item>CANTOBLANCO UNIVERSIDAD</item>
+        <item>CERCEDILLA</item>
+        <item>CERCEDILLA PUEBLO</item>
+        <item>CHAMARTIN</item>
+        <item>CIEMPOZUELOS</item>
+        <item>COLLADO MEDIANO</item>
+        <item>COLMENAR VIEJO</item>
+        <item>COSLADA</item>
+        <item>COTOS</item>
+        <item>CUATRO VIENTOS</item>
+        <item>DELICIAS</item>
+        <item>DOCE DE OCTUBRE</item>
+        <item>DOS CASTILLAS</item>
+        <item>EL BARRIAL-C.COM.POZUELO</item>
+        <item>EL CASAR</item>
+        <item>EL ESCORIAL</item>
+        <item>EL ESPINAR</item>
+        <item>EL GOLOSO</item>
+        <item>EL PIMPOLLAR</item>
+        <item>EL POZO</item>
+        <item>EL TEJAR</item>
+        <item>EMBAJADORES</item>
+        <item>FANJUL</item>
+        <item>FUENCARRAL</item>
+        <item>FUENLABRADA</item>
+        <item>FUENTE DE LA MORA</item>
+        <item>GALAPAGAR-LA NAVATA</item>
+        <item>GETAFE CENTRO</item>
+        <item>GETAFE INDUSTRIAL</item>
+        <item>GETAFE-SECTOR TRES</item>
+        <item>GUADALAJARA</item>
+        <item>GUDILLOS</item>
+        <item>GUIMORCONDO</item>
+        <item>HERRADON-LA CAÑADA</item>
+        <item>HUMANES</item>
+        <item>LA GARENA</item>
+        <item>LA SERNA</item>
+        <item>LAGUNA</item>
+        <item>LAS AGUILAS</item>
+        <item>LAS HERAS Y LOS CASTAÑOS</item>
+        <item>LAS MARGARITAS UNIVERSIDAD</item>
+        <item>LAS MATAS</item>
+        <item>LAS NAVAS DEL MARQUES</item>
+        <item>LAS RETAMAS</item>
+        <item>LAS ROZAS</item>
+        <item>LAS ZORRERAS</item>
+        <item>LEGANES</item>
+        <item>LOS ANGELES DE SAN RAFAEL</item>
+        <item>LOS MOLINOS</item>
+        <item>LOS NEGRALES</item>
+        <item>MAJADAHONDA</item>
+        <item>MECO</item>
+        <item>MENDEZ ALVARO</item>
+        <item>MOSTOLES</item>
+        <item>MOSTOLES EL SOTO</item>
+        <item>NAVALGRANDE</item>
+        <item>NAVALPERAL</item>
+        <item>NAVAS DE RIOFRIO-LA LOSA</item>
+        <item>NUEVOS MINISTERIOS</item>
+        <item>ORCASITAS</item>
+        <item>ORTIGOSA DEL MONTE</item>
+        <item>OTERO-HERREROS</item>
+        <item>PARLA</item>
+        <item>PARQUE DE OCIO</item>
+        <item>PARQUE POLVORANCA</item>
+        <item>PINAR DE LAS ROZAS</item>
+        <item>PINTO</item>
+        <item>PIRAMIDES</item>
+        <item>PITIS</item>
+        <item>POZUELO</item>
+        <item>PRINCIPE PIO</item>
+        <item>PUENTE ALCOCER</item>
+        <item>PUERTO DE NAVACERRADA</item>
+        <item>RAMON Y CAJAL</item>
+        <item>RECOLETOS</item>
+        <item>ROBLEDO DE CHAVELA</item>
+        <item>SAN CRISTOBAL DE LOS ANGELES</item>
+        <item>SAN CRISTOBAL INDUSTRIAL</item>
+        <item>SAN FERNANDO</item>
+        <item>SAN JOSE DE VALDERAS</item>
+        <item>SAN SEBASTIAN DE LOS REYES</item>
+        <item>SAN MARTIN DE LA VEGA</item>
+        <item>SAN RAFAEL</item>
+        <item>SAN YAGO</item>
+        <item>SANTA EUGENIA</item>
+        <item>SANTA MARIA DE LA ALAMEDA</item>
+        <item>SEGOVIA</item>
+        <item>SIETE PICOS</item>
+        <item>SOL</item>
+        <item>TABLADA</item>
+        <item>TORREJON DE ARDOZ</item>
+        <item>TORRELODONES</item>
+        <item>TRES CANTOS</item>
+        <item>UNIVERSIDAD P.COMILLAS</item>
+        <item>VALDELASFUENTES</item>
+        <item>VALDEMORO</item>
+        <item>VALLECAS</item>
+        <item>VAQUERIZAS</item>
+        <item>VICALVARO</item>
+        <item>VILLALBA</item>
+        <item>VILLAVERDE-ALTO</item>
+        <item>VILLAVERDE-BAJO</item>
+        <item>ZARZALEJO</item>
+        <item>ZARZAQUEMADA</item>
+    </string-array>
+    <string-array name="array_id_estaciones_cercanias">
+        <item>98305</item>
+        <item>70103</item>
+        <item>70107</item>
+        <item>19003</item>
+        <item>35605</item>
+        <item>12002</item>
+        <item>35600</item>
+        <item>60200</item>
+        <item>10001</item>
+        <item>70002</item>
+        <item>18000</item>
+        <item>10400</item>
+        <item>70105</item>
+        <item>12017</item>
+        <item>17009</item>
+        <item>12006</item>
+        <item>12015</item>
+        <item>17000</item>
+        <item>60105</item>
+        <item>12004</item>
+        <item>17005</item>
+        <item>70108</item>
+        <item>12023</item>
+        <item>35603</item>
+        <item>18004</item>
+        <item>35702</item>
+        <item>12021</item>
+        <item>10010</item>
+        <item>60109</item>
+        <item>10203</item>
+        <item>12010</item>
+        <item>17003</item>
+        <item>10209</item>
+        <item>70003</item>
+        <item>97103</item>
+        <item>35609</item>
+        <item>35601</item>
+        <item>17001</item>
+        <item>35002</item>
+        <item>98003</item>
+        <item>10104</item>
+        <item>37002</item>
+        <item>60102</item>
+        <item>37011</item>
+        <item>70200</item>
+        <item>12008</item>
+        <item>10302</item>
+        <item>10300</item>
+        <item>35012</item>
+        <item>70111</item>
+        <item>35010</item>
+        <item>35608</item>
+        <item>35602</item>
+        <item>12016</item>
+        <item>37010</item>
+        <item>10101</item>
+        <item>10207</item>
+        <item>35610</item>
+        <item>10005</item>
+        <item>10202</item>
+        <item>35001</item>
+        <item>12011</item>
+        <item>12005</item>
+        <item>12001</item>
+        <item>10007</item>
+        <item>70104</item>
+        <item>18003</item>
+        <item>35606</item>
+        <item>35607</item>
+        <item>10301</item>
+        <item>10208</item>
+        <item>12014</item>
+        <item>18002</item>
+        <item>35703</item>
+        <item>12013</item>
+        <item>12012</item>
+        <item>37012</item>
+        <item>60115</item>
+        <item>35011</item>
+        <item>10100</item>
+        <item>60103</item>
+        <item>18005</item>
+        <item>97100</item>
+        <item>10002</item>
+        <item>10000</item>
+        <item>35704</item>
+        <item>12020</item>
+        <item>97201</item>
+        <item>18001</item>
+        <item>10205</item>
+        <item>60107</item>
+        <item>60101</item>
+        <item>70101</item>
+        <item>35604</item>
+        <item>19003</item>
+        <item>60116</item>
+        <item>12009</item>
+        <item>10201</item>
+        <item>70109</item>
+        <item>10206</item>
+        <item>12100</item>
+        <item>12018</item>
+        <item>18101</item>
+        <item>12007</item>
+        <item>70102</item>
+        <item>10103</item>
+        <item>17004</item>
+        <item>19001</item>
+        <item>19002</item>
+        <item>60104</item>
+        <item>70001</item>
+        <item>12022</item>
+        <item>70100</item>
+        <item>10200</item>
+        <item>37001</item>
+        <item>60100</item>
+        <item>10204</item>
+        <item>35009</item>
+    </string-array>
+    <string-array name="array_tipodia_cercanias">
+        <item>Monday &amp;amp; After Holidays</item>
+        <item>Tuesdays a Thursdays</item>
+        <item>Fridays</item>
+        <item>Saturdays</item>
+        <item>Sundays &amp;amp; Holidays</item>
+    </string-array>
+    <string-array name="array_id_tipodia_cercanias">
+        <item>D</item>
+        <item>L</item>
+        <item>V</item>
+        <item>S</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="array_latitudes_metro">
+        <item>40.3808319</item>
+        <item>40.4038738</item>
+        <item>40.4686476</item>
+        <item>40.4917629</item>
+        <item>40.4577919</item>
+        <item>40.3500868</item>
+        <item>40.4482482</item>
+        <item>40.3840703</item>
+        <item>40.4383784</item>
+        <item>40.4277226</item>
+        <item>40.3008112</item>
+        <item>40.4223100</item>
+        <item>40.3897726</item>
+        <item>40.4099246</item>
+        <item>40.3856295</item>
+        <item>40.4503359</item>
+        <item>40.4892760</item>
+        <item>40.4124676</item>
+        <item>40.4702206</item>
+        <item>40.4849350</item>
+        <item>40.3036661</item>
+        <item>40.3930993</item>
+        <item>40.4306636</item>
+        <item>40.2887438</item>
+        <item>40.4052242</item>
+        <item>40.4558288</item>
+        <item>40.4302016</item>
+        <item>40.4088513</item>
+        <item>40.4065905</item>
+        <item>40.4386111</item>
+        <item>40.439292</item>
+        <item>40.421393</item>
+        <item>40.4800991</item>
+        <item>40.4535390</item>
+        <item>40.3836374</item>
+        <item>40.4768117</item>
+        <item>40.4192239</item>
+        <item>40.4757989</item>
+        <item>40.4390955</item>
+        <item>40.4768864</item>
+        <item>40.4224957</item>
+        <item>40.4078602</item>
+        <item>40.5544232</item>
+        <item>40.4804137</item>
+        <item>40.431236</item>
+        <item>40.444857</item>
+        <item>40.4290543</item>
+        <item>40.4934860</item>
+        <item>40.407108</item>
+        <item>40.3915617</item>
+        <item>40.4201322</item>
+        <item>40.3948064</item>
+        <item>40.4638952</item>
+        <item>40.433221</item>
+        <item>40.4384107</item>
+        <item>40.4638085</item>
+        <item>40.4494241</item>
+        <item>40.395294</item>
+        <item>40.3878232</item>
+        <item>40.3719757</item>
+        <item>40.3927040</item>
+        <item>40.4393407</item>
+        <item>40.4032409</item>
+        <item>40.3266015</item>
+        <item>40.4720275</item>
+        <item>40.4229287</item>
+        <item>40.3595825</item>
+        <item>40.395255</item>
+        <item>40.397083</item>
+        <item>40.4380465</item>
+        <item>40.4435602</item>
+        <item>40.396871</item>
+        <item>40.4563406</item>
+        <item>40.4254188</item>
+        <item>40.3595825</item>
+        <item>40.3969795</item>
+        <item>40.4514454</item>
+        <item>40.4069722</item>
+        <item>40.3723846</item>
+        <item>40.2932481</item>
+        <item>40.4237329</item>
+        <item>40.4442694</item>
+        <item>40.4469715</item>
+        <item>40.3777027</item>
+        <item>40.4584259</item>
+        <item>40.3999040</item>
+        <item>40.4346757</item>
+        <item>40.432523</item>
+        <item>40.4676242</item>
+        <item>40.3290724</item>
+        <item>40.4534705</item>
+        <item>40.4318928</item>
+        <item>40.3366362</item>
+        <item>40.3186275</item>
+        <item>40.4051232</item>
+        <item>40.3905726</item>
+        <item>40.4594456</item>
+        <item>40.4484940</item>
+        <item>40.4333937</item>
+        <item>40.4542836</item>
+        <item>40.4114722</item>
+        <item>40.3843858</item>
+        <item>40.401957</item>
+        <item>40.4564786</item>
+        <item>40.4950838</item>
+        <item>40.2826772</item>
+        <item>40.4839720</item>
+        <item>40.4284244</item>
+        <item>40.3099271</item>
+        <item>40.4245440</item>
+        <item>40.4200115</item>
+        <item>40.4382539</item>
+        <item>40.4463620</item>
+        <item>40.4177664</item>
+        <item>40.4846616</item>
+        <item>40.4753717</item>
+        <item>40.5597668</item>
+        <item>40.2857533</item>
+        <item>40.3165265</item>
+        <item>40.4176066</item>
+        <item>40.3217703</item>
+        <item>40.3750289</item>
+        <item>40.4183931</item>
+        <item>40.4349206</item>
+        <item>40.401957</item>
+        <item>40.4390648</item>
+        <item>40.4229362</item>
+        <item>40.3498463</item>
+        <item>40.40596</item>
+        <item>40.3118030</item>
+        <item>40.3347449</item>
+        <item>40.423449</item>
+        <item>40.4266173</item>
+        <item>40.3579574</item>
+        <item>40.3701880</item>
+        <item>40.5275987</item>
+        <item>40.4112790</item>
+        <item>40.5319526</item>
+        <item>40.3642223</item>
+        <item>40.3190157</item>
+        <item>40.4251478</item>
+        <item>40.4850161</item>
+        <item>40.4164141</item>
+        <item>40.3991786</item>
+        <item>40.4329840</item>
+        <item>40.423788</item>
+        <item>40.3632247</item>
+        <item>40.5083029</item>
+        <item>40.4085123</item>
+        <item>40.3289809</item>
+        <item>40.3911506</item>
+        <item>40.4291685</item>
+        <item>40.2968089</item>
+        <item>40.3242248</item>
+        <item>40.4050997</item>
+        <item>40.4768716</item>
+        <item>40.4279069</item>
+        <item>40.5504843</item>
+        <item>40.3090301</item>
+        <item>40.4694241</item>
+        <item>40.4969130</item>
+        <item>40.3973571</item>
+        <item>40.5410236</item>
+        <item>40.3953771</item>
+        <item>40.4044510</item>
+        <item>40.4464350</item>
+        <item>40.3873177</item>
+        <item>40.491144</item>
+        <item>40.43523</item>
+        <item>40.5052554</item>
+        <item>40.397945</item>
+        <item>40.3285025</item>
+        <item>40.4248422</item>
+        <item>40.3955396</item>
+        <item>40.4056417</item>
+        <item>40.4466178</item>
+        <item>40.4325577</item>
+        <item>40.4228927</item>
+        <item>40.3869070</item>
+        <item>40.4180912</item>
+        <item>40.3884681</item>
+        <item>40.4012600</item>
+        <item>40.5056580</item>
+        <item>40.4030750</item>
+        <item>40.3758644</item>
+        <item>40.4394477</item>
+        <item>40.2868401</item>
+        <item>40.2851754</item>
+        <item>40.3496848</item>
+        <item>40.3458961</item>
+        <item>40.4771155</item>
+        <item>40.4005132</item>
+        <item>40.4759259</item>
+        <item>40.4801375</item>
+        <item>40.4679973</item>
+        <item>40.4630043</item>
+        <item>40.4026015</item>
+        <item>40.4951064</item>
+        <item>40.3845936</item>
+        <item>40.4234137</item>
+        <item>40.4668983</item>
+        <item>40.3926609</item>
+        <item>40.4230733</item>
+        <item>40.3216815</item>
+        <item>40.3950165</item>
+        <item>40.4104693</item>
+        <item>40.4022955</item>
+        <item>40.4210687</item>
+        <item>40.4229427</item>
+        <item>40.4441901</item>
+        <item>40.4356963</item>
+        <item>40.3981961</item>
+        <item>40.4138996</item>
+        <item>40.4013157</item>
+        <item>40.4052478</item>
+        <item>40.3452443</item>
+        <item>40.4070360</item>
+        <item>40.4332215</item>
+        <item>40.4335810</item>
+        <item>40.4437935</item>
+        <item>40.3987169</item>
+        <item>40.4203029</item>
+        <item>40.5503789</item>
+        <item>40.4419229</item>
+        <item>40.3413433</item>
+        <item>40.3667715</item>
+        <item>40.3283709</item>
+        <item>40.5155389</item>
+        <item>40.4331574</item>
+        <item>40.4150675</item>
+        <item>40.4300157</item>
+        <item>40.4279890</item>
+        <item>40.4038141</item>
+        <item>40.3415397</item>
+        <item>40.3699938</item>
+        <item>40.4244134</item>
+        <item>40.3735987</item>
+        <item>40.4744713</item>
+        <item>40.3361594</item>
+        <item>40.4515849</item>
+        <item>40.4213164</item>
+        <item>40.4254358</item>
+        <item>40.4180540</item>
+        <item>40.3821641</item>
+        <item>40.4051294</item>
+        <item>40.4279881</item>
+        <item>40.4168765</item>
+        <item>40.4193653</item>
+        <item>40.4153629</item>
+        <item>40.4408470</item>
+        <item>40.4605557</item>
+        <item>40.4123454</item>
+        <item>40.4437467</item>
+        <item>40.5012046</item>
+        <item>40.4261870</item>
+        <item>40.3351225</item>
+        <item>40.3933545</item>
+        <item>40.3870973</item>
+        <item>40.4644218</item>
+        <item>40.4000462</item>
+        <item>40.3600682</item>
+        <item>40.4648258</item>
+        <item>40.4250344</item>
+        <item>40.4308851</item>
+        <item>40.4694349</item>
+        <item>40.3906766</item>
+        <item>40.4270848</item>
+        <item>40.4042128</item>
+        <item>40.3795968</item>
+        <item>40.3412275</item>
+        <item>40.3508945</item>
+        <item>40.4102443</item>
+        <item>40.4873300</item>
+        <item>40.3888466</item>
+    </string-array>
+    <string-array name="array_longitudes_metro">
+        <item>-3.7279051</item>
+        <item>-3.7066459</item>
+        <item>-3.5695342</item>
+        <item>-3.5932470</item>
+        <item>-3.5875231</item>
+        <item>-3.8317739</item>
+        <item>-3.6679119</item>
+        <item>-3.6979685</item>
+        <item>-3.6992483</item>
+        <item>-3.6959433</item>
+        <item>-3.7366366</item>
+        <item>-3.6119690</item>
+        <item>-3.6452194</item>
+        <item>-3.7389312</item>
+        <item>-3.7608033</item>
+        <item>-3.7033108</item>
+        <item>-3.6508940</item>
+        <item>-3.6993693</item>
+        <item>-3.7176971</item>
+        <item>-3.6537270</item>
+        <item>-3.4475208</item>
+        <item>-3.6886354</item>
+        <item>-3.7159683</item>
+        <item>-3.7568233</item>
+        <item>-3.6418076</item>
+        <item>-3.6561813</item>
+        <item>-3.6410544</item>
+        <item>-3.6924845</item>
+        <item>-3.6893737</item>
+        <item>-3.6752778</item>
+        <item>-3.793024</item>
+        <item>-3.615119</item>
+        <item>-3.7184039</item>
+        <item>-3.6611830</item>
+        <item>-3.7839189</item>
+        <item>-3.6763701</item>
+        <item>-3.6949600</item>
+        <item>-3.5825834</item>
+        <item>-3.6519981</item>
+        <item>-3.7031628</item>
+        <item>-3.5691925</item>
+        <item>-3.7531099</item>
+        <item>-3.6351260</item>
+        <item>-3.6858447</item>
+        <item>-3.80437</item>
+        <item>-3.791184</item>
+        <item>-3.7021816</item>
+        <item>-3.6553140</item>
+        <item>-3.879998</item>
+        <item>-3.6539084</item>
+        <item>-3.7056606</item>
+        <item>-3.7681294</item>
+        <item>-3.6162032</item>
+        <item>-3.795251</item>
+        <item>-3.7043304</item>
+        <item>-3.6355937</item>
+        <item>-3.6081583</item>
+        <item>-3.864398</item>
+        <item>-3.7448754</item>
+        <item>-3.7519099</item>
+        <item>-3.7409937</item>
+        <item>-3.6721511</item>
+        <item>-3.7610130</item>
+        <item>-3.7594230</item>
+        <item>-3.6825862</item>
+        <item>-3.6976150</item>
+        <item>-3.6936297</item>
+        <item>-3.789932</item>
+        <item>-3.783985</item>
+        <item>-3.6381575</item>
+        <item>-3.7267881</item>
+        <item>-3.803834</item>
+        <item>-3.6768255</item>
+        <item>-3.6910038</item>
+        <item>-3.6936297</item>
+        <item>-3.7746114</item>
+        <item>-3.6773779</item>
+        <item>-3.6704034</item>
+        <item>-3.6188449</item>
+        <item>-3.7457669</item>
+        <item>-3.5611868</item>
+        <item>-3.6782139</item>
+        <item>-3.7039716</item>
+        <item>-3.7915190</item>
+        <item>-3.6898554</item>
+        <item>-3.6941959</item>
+        <item>-3.6749579</item>
+        <item>-3.801613</item>
+        <item>-3.6791680</item>
+        <item>-3.7296332</item>
+        <item>-3.5940073</item>
+        <item>-3.6575758</item>
+        <item>-3.7401807</item>
+        <item>-3.7098535</item>
+        <item>-3.7026757</item>
+        <item>-3.7653479</item>
+        <item>-3.6458138</item>
+        <item>-3.7855460</item>
+        <item>-3.6001502</item>
+        <item>-3.7030217</item>
+        <item>-3.6617853</item>
+        <item>-3.7512112</item>
+        <item>-3.879375</item>
+        <item>-3.7123853</item>
+        <item>-3.6928264</item>
+        <item>-3.7989045</item>
+        <item>-3.6637690</item>
+        <item>-3.6333040</item>
+        <item>-3.7340288</item>
+        <item>-3.6759059</item>
+        <item>-3.7018048</item>
+        <item>-3.6914888</item>
+        <item>-3.7122904</item>
+        <item>-3.5271783</item>
+        <item>-3.7075150</item>
+        <item>-3.6525726</item>
+        <item>-3.6114579</item>
+        <item>-3.8164220</item>
+        <item>-3.8747090</item>
+        <item>-3.5345323</item>
+        <item>-3.7679730</item>
+        <item>-3.6958492</item>
+        <item>-3.6785790</item>
+        <item>-3.6989767</item>
+        <item>-3.879375</item>
+        <item>-3.7137345</item>
+        <item>-3.5254975</item>
+        <item>-3.8071962</item>
+        <item>-3.897405</item>
+        <item>-3.7222451</item>
+        <item>-3.7526625</item>
+        <item>-3.639385</item>
+        <item>-3.6505221</item>
+        <item>-3.7778277</item>
+        <item>-3.6134655</item>
+        <item>-3.6585919</item>
+        <item>-3.7081611</item>
+        <item>-3.6355634</item>
+        <item>-3.7569000</item>
+        <item>-3.4774474</item>
+        <item>-3.5479247</item>
+        <item>-3.7230460</item>
+        <item>-3.7356311</item>
+        <item>-3.7442697</item>
+        <item>-3.6078807</item>
+        <item>-3.60417</item>
+        <item>-3.5995284</item>
+        <item>-3.6693446</item>
+        <item>-3.7009077</item>
+        <item>-3.7715390</item>
+        <item>-3.6951195</item>
+        <item>-3.6754098</item>
+        <item>-3.8376865</item>
+        <item>-3.7181987</item>
+        <item>-3.7453366</item>
+        <item>-3.6628981</item>
+        <item>-3.6692552</item>
+        <item>-3.6468756</item>
+        <item>-3.8640212</item>
+        <item>-3.6383243</item>
+        <item>-3.6593270</item>
+        <item>-3.7159575</item>
+        <item>-3.6373849</item>
+        <item>-3.6781951</item>
+        <item>-3.6809847</item>
+        <item>-3.7194254</item>
+        <item>-3.6395054</item>
+        <item>-3.716109</item>
+        <item>-3.719162</item>
+        <item>-3.6957517</item>
+        <item>-3.835849</item>
+        <item>-3.8635393</item>
+        <item>-3.7074190</item>
+        <item>-3.6641393</item>
+        <item>-3.8857593</item>
+        <item>-3.6924116</item>
+        <item>-3.6797233</item>
+        <item>-3.6685926</item>
+        <item>-3.7231281</item>
+        <item>-3.7094230</item>
+        <item>-3.7313214</item>
+        <item>-3.6751312</item>
+        <item>-3.6653780</item>
+        <item>-3.6942285</item>
+        <item>-3.7341656</item>
+        <item>-3.6629670</item>
+        <item>-3.7869774</item>
+        <item>-3.8063216</item>
+        <item>-3.8211949</item>
+        <item>-3.8493370</item>
+        <item>-3.6452396</item>
+        <item>-3.6351167</item>
+        <item>-3.7158230</item>
+        <item>-3.6667999</item>
+        <item>-3.6486676</item>
+        <item>-3.6757954</item>
+        <item>-3.7113817</item>
+        <item>-3.7258919</item>
+        <item>-3.7184733</item>
+        <item>-3.7111998</item>
+        <item>-3.6891989</item>
+        <item>-3.6586792</item>
+        <item>-3.8044744</item>
+        <item>-3.8648885</item>
+        <item>-3.8477379</item>
+        <item>-3.7874826</item>
+        <item>-3.7812125</item>
+        <item>-3.7203695</item>
+        <item>-3.6801218</item>
+        <item>-3.6748171</item>
+        <item>-3.6428279</item>
+        <item>-3.6690556</item>
+        <item>-3.7272354</item>
+        <item>-3.5959768</item>
+        <item>-3.8769914</item>
+        <item>-3.8121102</item>
+        <item>-3.7110512</item>
+        <item>-3.7043353</item>
+        <item>-3.6473587</item>
+        <item>-3.6840578</item>
+        <item>-3.8167461</item>
+        <item>-3.6862483</item>
+        <item>-3.6233956</item>
+        <item>-3.7015843</item>
+        <item>-3.5247944</item>
+        <item>-3.5472758</item>
+        <item>-3.5205975</item>
+        <item>-3.6627708</item>
+        <item>-3.6895385</item>
+        <item>-3.6695171</item>
+        <item>-3.7055751</item>
+        <item>-3.6154632</item>
+        <item>-3.6023979</item>
+        <item>-3.6931861</item>
+        <item>-3.6941721</item>
+        <item>-3.5354112</item>
+        <item>-3.7391002</item>
+        <item>-3.6395754</item>
+        <item>-3.7758707</item>
+        <item>-3.6903752</item>
+        <item>-3.7079598</item>
+        <item>-3.6866305</item>
+        <item>-3.6992503</item>
+        <item>-3.6247187</item>
+        <item>-3.8926349</item>
+        <item>-3.6257196</item>
+        <item>-3.7032574</item>
+        <item>-3.7987370</item>
+        <item>-3.7925254</item>
+        <item>-3.6268409</item>
+        <item>-3.6982513</item>
+        <item>-3.7046600</item>
+        <item>-3.6169981</item>
+        <item>-3.6952025</item>
+        <item>-3.7011027</item>
+        <item>-3.8721822</item>
+        <item>-3.7236094</item>
+        <item>-3.7068949</item>
+        <item>-3.6950594</item>
+        <item>-3.6215607</item>
+        <item>-3.5931643</item>
+        <item>-3.7159766</item>
+        <item>-3.6829131</item>
+        <item>-3.6636612</item>
+        <item>-3.6958778</item>
+        <item>-3.8385031</item>
+        <item>-3.7134076</item>
+        <item>-3.6088596</item>
+        <item>-3.6213023</item>
+        <item>-3.7119856</item>
+        <item>-3.6926458</item>
+        <item>-3.6527335</item>
+        <item>-3.6608990</item>
+        <item>-3.7398204</item>
+    </string-array>
+    <string-array name="array_lineas_bus">
+        <item>1 - CRISTO REY - PROSPERIDAD</item>
+        <item>2 - MANUEL BECERRA - REINA VICTORIA</item>
+        <item>3 - PUERTA TOLEDO - SAN AMARO</item>
+        <item>4 - CIUDAD LINEAL - PUERTA ARGANDA</item>
+        <item>5 - SOL - CHAMARTIN</item>
+        <item>6 - BENAVENTE - ORCASITAS</item>
+        <item>7 - ALONSO MARTINEZ - MANOTERAS</item>
+        <item>8 - LEGAZPI - VALDEBERNARDO</item>
+        <item>9 - SEVILLA - HORTALEZA</item>
+        <item>10 - CIBELES - PALOMERAS</item>
+        <item>11 - MARQUES DE VIANA - BARRIO BLANCO</item>
+        <item>12 - CRISTO REY - MARQUES DE ZAFRA</item>
+        <item>14 - CONDE DE CASAL - PIO XII</item>
+        <item>15 - SOL - LA ELIPA</item>
+        <item>16 - MONCLOA - PIO XII</item>
+        <item>17 - PLAZA MAYOR - PARQUE EUROPA</item>
+        <item>18 - PLAZA MAYOR - VILLAVERDE CRUCE</item>
+        <item>19 - PLAZA CATALUÑA - LEGAZPI</item>
+        <item>20 - SOL - PAVONES</item>
+        <item>21 - PINTOR ROSALES - EL SALVADOR</item>
+        <item>22 - LEGAZPI - VILLAVERDE ALTO</item>
+        <item>23 - PLAZA MAYOR - EL ESPINILLO</item>
+        <item>24 - ATOCHA - EL POZO</item>
+        <item>25 - OPERA - CASA DE CAMPO</item>
+        <item>26 - TIRSO DE MOLINA - DIEGO DE LEON</item>
+        <item>27 - EMBAJADORES - PLAZA CASTILLA</item>
+        <item>28 - PUERTA ALCALA - Bº CANILLEJAS</item>
+        <item>29 - FELIPE II - MANOTERAS</item>
+        <item>30 - FELIPE II - PAVONES</item>
+        <item>31 - PLAZA MAYOR - ALUCHE</item>
+        <item>32 - BENAVENTE - PAVONES</item>
+        <item>33 - PRINCIPE PIO - CASA DE CAMPO</item>
+        <item>34 - CIBELES - GENERAL FANJUL</item>
+        <item>35 - PLAZA MAYOR - CARABANCHEL ALTO</item>
+        <item>36 - ATOCHA - CAMPAMENTO</item>
+        <item>37 - CUATRO CAMINOS - PUENTE VALLECAS</item>
+        <item>38 - MANUEL BECERRA - LAS ROSAS</item>
+        <item>39 - OPERA - SAN IGNACIO</item>
+        <item>40 - TRIBUNAL - ALFONSO XIII</item>
+        <item>41 - ATOCHA - COL. MANZANARES</item>
+        <item>42 - PLAZA CASTILLA - Bº PEÑAGRANDE</item>
+        <item>43 - FELIPE II - ESTRECHO</item>
+        <item>44 - CALLAO - MARQUES DE VIANA</item>
+        <item>45 - LEGAZPI - PT.GARCIA MORENO</item>
+        <item>46 - SEVILLA - MONCLOA</item>
+        <item>47 - ATOCHA - CARABANCHEL ALTO</item>
+        <item>48 - MANUEL BECERRA - Bº CANILLEJAS</item>
+        <item>49 - PLAZA CASTILLA - ARROYO FRESNO</item>
+        <item>50 - SOL - AVDA. MANZANARES</item>
+        <item>51 - SOL - PLAZA PERU</item>
+        <item>52 - SOL - SANTAMARCA</item>
+        <item>53 - SOL - S.JUAN BAUTISTA</item>
+        <item>54 - ATOCHA - BARRIO VILANO</item>
+        <item>55 - ATOCHA - BATAN</item>
+        <item>56 - DIEGO DE LEON - PUENTE VALLECAS</item>
+        <item>57 - ATOCHA - ALTO DEL ARENAL</item>
+        <item>58 - PUENTE VALLECAS - SANTA EUGENIA</item>
+        <item>59 - ATOCHA - SAN CRISTOBAL</item>
+        <item>60 - PLAZA CEBADA - ORCASITAS</item>
+        <item>61 - MONCLOA - NARVAEZ</item>
+        <item>62 - PRINCIPE PIO - PUERTO SERRANO</item>
+        <item>63 - FELIPE II - SANTA EUGENIA</item>
+        <item>64 - CUATRO CAMINOS - ARROYO FRESNO</item>
+        <item>65 - BENAVENTE - GRAN CAPITAN</item>
+        <item>66 - CUATRO CAMINOS - FUENCARRAL</item>
+        <item>67 - PLAZA CASTILLA - Bº PEÑAGRANDE</item>
+        <item>C1 - CIRCULAR 1 - CIRCULAR 1</item>
+        <item>C2 - CIRCULAR 2 - CIRCULAR 2</item>
+        <item>70 - PLAZA CASTILLA - ALSACIA</item>
+        <item>71 - MANUEL BECERRA - PUERTA ARGANDA</item>
+        <item>72 - DIEGO DE LEON - HORTALEZA</item>
+        <item>73 - DIEGO DE LEON - CANILLAS</item>
+        <item>74 - PINTOR ROSALES - PARQUE AVENIDAS</item>
+        <item>75 - CALLAO - COL. MANZANARES</item>
+        <item>76 - PLAZA BEATA - VILLAVERDE ALTO</item>
+        <item>77 - CIUDAD LINEAL - FIN DE SEMANA</item>
+        <item>78 - EMBAJADORES - SAN FERMIN</item>
+        <item>79 - LEGAZPI - VILLAVERDE ALTO</item>
+        <item>81 - OPORTO - H. 12 OCTUBRE</item>
+        <item>82 - MONCLOA - Bº PEÑAGRANDE</item>
+        <item>83 - MONCLOA - BARRIO DEL PILAR</item>
+        <item>85 - ATOCHA - LOS ROSALES</item>
+        <item>86 - ATOCHA - VILLAVERDE ALTO</item>
+        <item>87 - REP. DOMINICANA - LAS CARCAVAS</item>
+        <item>E - CONDE DE CASAL - POLITECNICO</item>
+        <item>F - CUATRO CAMINOS - C. UNIVERSITARIA</item>
+        <item>G - MONCLOA - C. UNIVERSITARIA</item>
+        <item>A - MONCLOA - SOMOSAGUAS</item>
+        <item>H - ALUCHE - SOMOSAGUAS</item>
+        <item>I - C. UNIVERSITARIA - SOMOSAGUAS</item>
+        <item>U - SENECA - PARANINFO</item>
+        <item>100 - MORATALAZ - VALDERRIVAS</item>
+        <item>101 - CANILLEJAS - BARAJAS</item>
+        <item>102 - ATOCHA - ESTACION EL POZO</item>
+        <item>103 - ENTREVIAS - ECOBULEVAR</item>
+        <item>104 - CIUDAD LINEAL - MAR DE CRISTAL</item>
+        <item>105 - CIUDAD LINEAL - BARAJAS</item>
+        <item>106 - MANUEL BECERRA - VICALVARO</item>
+        <item>107 - PLAZA CASTILLA - HORTALEZA</item>
+        <item>108 - OPORTO - CMTº CARABANCHEL</item>
+        <item>109 - CIUDAD LINEAL - CASTILLO UCLES</item>
+        <item>110 - MANUEL BECERRA - CMTº ALMUDENA</item>
+        <item>111 - PUENTE VALLECAS - ENTREVIAS</item>
+        <item>112 - MAR DE CRISTAL - Bº AEROPUERTO</item>
+        <item>113 - MENDEZ ALVARO - CIUDAD LINEAL</item>
+        <item>114 - AVENIDA AMERICA - Bº AEROPUERTO</item>
+        <item>115 - AVENIDA AMERICA - BARAJAS</item>
+        <item>116 - EMBAJADORES - VILLAVERDE CRUCE</item>
+        <item>117 - ALUCHE - SAN IGNACIO</item>
+        <item>118 - EMBAJADORES - LA PESETA</item>
+        <item>119 - ATOCHA - BARRIO GOYA</item>
+        <item>120 - PLAZA LIMA - HORTALEZA</item>
+        <item>121 - CAMPAMENTO - H. 12 OCTUBRE</item>
+        <item>122 - AVENIDA AMERICA - CAMPO NACIONES</item>
+        <item>123 - LEGAZPI - VILLAVERDE BAJO</item>
+        <item>124 - CUATRO CAMINOS - LACOMA</item>
+        <item>125 - MAR DE CRISTAL - H. RAMON Y CAJAL</item>
+        <item>126 - MINISTERIOS - BARRIO DEL PILAR</item>
+        <item>127 - CUATRO CAMINOS - C. PERIODISTAS</item>
+        <item>128 - CUATRO CAMINOS - BARRIO DEL PILAR</item>
+        <item>129 - PLAZA CASTILLA - MANOTERAS</item>
+        <item>130 - VILLAVERDE ALTO - VICALVARO</item>
+        <item>131 - CAMPAMENTO - VILLAVERDE ALTO</item>
+        <item>132 - MONCLOA - HOSPITAL LA PAZ</item>
+        <item>133 - CALLAO - MIRASIERRA</item>
+        <item>134 - PLAZA CASTILLA - MONTECARMELO</item>
+        <item>135 - PLAZA CASTILLA - H. RAMON Y CAJAL</item>
+        <item>136 - PACIFICO - MADRID SUR</item>
+        <item>137 - PUERTA HIERRO - FUENCARRAL</item>
+        <item>138 - PLAZA ESPAÑA - ALUCHE</item>
+        <item>139 - DEHESA PRINCIPE - CARABANCHEL ALTO</item>
+        <item>140 - PAVONES - CANILLEJAS</item>
+        <item>141 - ATOCHA - BUENOS AIRES</item>
+        <item>142 - PAVONES - ENSANCH.VALLECAS</item>
+        <item>143 - MANUEL BECERRA - VILLA VALLECAS</item>
+        <item>144 - PAVONES - ENTREVIAS</item>
+        <item>145 - CONDE DE CASAL - ENSANCH.VALLECAS</item>
+        <item>146 - CALLAO - LOS MOLINOS</item>
+        <item>147 - CALLAO - BARRIO DEL PILAR</item>
+        <item>148 - CALLAO - PUENTE VALLECAS</item>
+        <item>149 - TRIBUNAL - PLAZA CASTILLA</item>
+        <item>150 - SOL - VIRGEN CORTIJO</item>
+        <item>151 - CANILLEJAS - BARAJAS</item>
+        <item>152 - FELIPE II - MENDEZ ALVARO</item>
+        <item>153 - LAS ROSAS - MAR DE CRISTAL</item>
+        <item>155 - PLAZA ELIPTICA - ALUCHE</item>
+        <item>156 - MANUEL BECERRA - LEGAZPI</item>
+        <item>160 - MONCLOA - ARAVACA</item>
+        <item>161 - MONCLOA - ESTACION ARAVACA</item>
+        <item>162 - MONCLOA - EL BARRIAL</item>
+        <item>172 - MAR DE CRISTAL - TELEFONICA</item>
+        <item>173 - PLAZA CASTILLA - SANCHINARRO</item>
+        <item>174 - PLAZA CASTILLA - SANCHINARRO ESTE</item>
+        <item>176 - PLAZA CASTILLA - LAS TABLAS</item>
+        <item>177 - PLAZA CASTILLA-MQUES.DE VIANA</item>
+        <item>178 - PLAZA CASTILLA - MONTECARMELO</item>
+        <item>200 - AVENIDA AMERICA - AEROPUERTO</item>
+        <item>202 - HOSPITAL MARAÑON - REINA VICTORIA</item>
+        <item>203 - ATOCHA - AEROPUERTO</item>
+        <item>210 - MANUEL BECERRA - LA ELIPA</item>
+        <item>215 - FELIPE II - PARQUE ROMA</item>
+        <item>247 - ATOCHA - SAN JOSE OBRERO</item>
+        <item>310 - PACIFICO - ESTACION EL POZO</item>
+        <item>E1 - ATOCHA - PLAZA ELIPTICA</item>
+        <item>E2 - FELIPE II - LAS ROSAS</item>
+        <item>E3 - FELIPE II - PUERTA ARGANDA</item>
+        <item>T11 - MAR DE CRISTAL - CRISTALIA</item>
+        <item>T23 - PUERTA ARGANDA - P.IND.VICALVARO</item>
+        <item>T32 - LEGAZPI - MERCAMADRID</item>
+        <item>T31 - ESTACION EL POZO - SIERRA GUADALUPE</item>
+        <item>T61 - EST. FUENCARRAL - TELEFONICA</item>
+        <item>T41 - VILLAVERDE ALTO - P.IND.LA RESINA</item>
+        <item>T62 - PLAZA CASTILLA - CHAMARTIN</item>
+        <item>H1 - SIERRA GUADALUPE - H.INFANTA LEONOR</item>
+        <item>N1 - CIBELES - SANCHINARRO</item>
+        <item>N2 - CIBELES - HORTALEZA</item>
+        <item>N3 - CIBELES - CANILLAS</item>
+        <item>N4 - CIBELES - BARAJAS</item>
+        <item>N5 - CIBELES - FIN DE SEMANA</item>
+        <item>N6 - CIBELES - LAS ROSAS</item>
+        <item>N7 - CIBELES - VICALVARO</item>
+        <item>N8 - CIBELES - VALDEBERNARDO</item>
+        <item>N9 - CIBELES - ENSANCH.VALLECAS</item>
+        <item>N10 - CIBELES - PALOMERAS</item>
+        <item>N11 - CIBELES - MADRID SUR</item>
+        <item>N12 - CIBELES - LOS ROSALES</item>
+        <item>N13 - CIBELES - SAN CRISTOBAL</item>
+        <item>N14 - CIBELES - VILLAVERDE ALTO</item>
+        <item>N15 - CIBELES - ORCASUR</item>
+        <item>N16 - CIBELES - LA PESETA</item>
+        <item>N17 - CIBELES - CARABANCHEL ALTO</item>
+        <item>N18 - CIBELES - ALUCHE</item>
+        <item>N19 - CIBELES - SAN IGNACIO</item>
+        <item>N20 - CIBELES - Bº PEÑAGRANDE</item>
+        <item>N21 - CIBELES - ARROYO FRESNO</item>
+        <item>N22 - CIBELES - BARRIO DEL PILAR</item>
+        <item>N23 - CIBELES - MONTECARMELO</item>
+        <item>N24 - CIBELES - LAS TABLAS</item>
+        <item>NC1 - CIBELES - MONCLOA</item>
+        <item>NC2 - CIBELES - ARGÜELLES</item>
+        <item>N27 - CIBELES - AEROPUERTO</item>
+        <item>L1 - PLAZA CASTILLA - CONGOSTO</item>
+        <item>L2 - VENTAS - CUATRO CAMINOS</item>
+        <item>L3 - LEGAZPI - MONCLOA</item>
+        <item>L4 - ARGÜELLES - P.SANTA MARIA</item>
+        <item>L5 - CANILLEJAS - CASA DE CAMPO</item>
+        <item>L7 - LAS MUSAS - LACOMA</item>
+        <item>L8 - MINISTERIOS - BARAJAS</item>
+        <item>L9 - HERRERA ORIA - PUERTA ARGANDA</item>
+        <item>L10 - FUENCARRAL - CUATRO VIENTOS</item>
+        <item>L6 - CIRCULAR 2 - CIRCULAR 1</item>
+        <item>L06 - CIRCULAR 2 - CIRCULAR 2</item>
+        <item>L11 - PLAZA ELIPTICA - PAN BENDITO</item>
+        <item>M1 - SEVILLA - EMBAJADORES</item>
+        <item>M2 - SEVILLA - ARGÜELLES</item>
+        <item>SE702 - PLAZA ELIPTICA - CEMENTERIO SUR</item>
+        <item>SE704 - PLAZA CASTILLA - CMTº FUENCARRAL</item>
+        <item>SE735 - CASA DE CAMPO - ZOO-AQUARIUM</item>
+        <item>SE - LEGAZPI - CAJA MAGICA</item>
+    </string-array>
+    <string-array name="array_id_lineas_bus">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>C1</item>
+        <item>C2</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>A</item>
+        <item>H</item>
+        <item>I</item>
+        <item>U</item>
+        <item>100</item>
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+        <item>109</item>
+        <item>110</item>
+        <item>111</item>
+        <item>112</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+        <item>116</item>
+        <item>117</item>
+        <item>118</item>
+        <item>119</item>
+        <item>120</item>
+        <item>121</item>
+        <item>122</item>
+        <item>123</item>
+        <item>124</item>
+        <item>125</item>
+        <item>126</item>
+        <item>127</item>
+        <item>128</item>
+        <item>129</item>
+        <item>130</item>
+        <item>131</item>
+        <item>132</item>
+        <item>133</item>
+        <item>134</item>
+        <item>135</item>
+        <item>136</item>
+        <item>137</item>
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+        <item>143</item>
+        <item>144</item>
+        <item>145</item>
+        <item>146</item>
+        <item>147</item>
+        <item>148</item>
+        <item>149</item>
+        <item>150</item>
+        <item>151</item>
+        <item>152</item>
+        <item>153</item>
+        <item>155</item>
+        <item>156</item>
+        <item>160</item>
+        <item>161</item>
+        <item>162</item>
+        <item>172</item>
+        <item>173</item>
+        <item>174</item>
+        <item>176</item>
+        <item>177</item>
+        <item>178</item>
+        <item>200</item>
+        <item>202</item>
+        <item>203</item>
+        <item>210</item>
+        <item>215</item>
+        <item>247</item>
+        <item>310</item>
+        <item>E1</item>
+        <item>E2</item>
+        <item>E3</item>
+        <item>T11</item>
+        <item>T23</item>
+        <item>T32</item>
+        <item>T31</item>
+        <item>T61</item>
+        <item>T41</item>
+        <item>T62</item>
+        <item>H1</item>
+        <item>N1</item>
+        <item>N2</item>
+        <item>N3</item>
+        <item>N4</item>
+        <item>N5</item>
+        <item>N6</item>
+        <item>N7</item>
+        <item>N8</item>
+        <item>N9</item>
+        <item>N10</item>
+        <item>N11</item>
+        <item>N12</item>
+        <item>N13</item>
+        <item>N14</item>
+        <item>N15</item>
+        <item>N16</item>
+        <item>N17</item>
+        <item>N18</item>
+        <item>N19</item>
+        <item>N20</item>
+        <item>N21</item>
+        <item>N22</item>
+        <item>N23</item>
+        <item>N24</item>
+        <item>NC1</item>
+        <item>NC2</item>
+        <item>N27</item>
+        <item>L1</item>
+        <item>L2</item>
+        <item>L3</item>
+        <item>L4</item>
+        <item>L5</item>
+        <item>L7</item>
+        <item>L8</item>
+        <item>L9</item>
+        <item>L10</item>
+        <item>L6</item>
+        <item>L06</item>
+        <item>L11</item>
+        <item>M1</item>
+        <item>M2</item>
+        <item>SE702</item>
+        <item>SE704</item>
+        <item>SE735</item>
+        <item>SE</item>
+    </string-array>
+    <string-array name="array_id_interurbanos_diurno">
+        <item>80151</item>
+        <item>81152</item>
+        <item>82152</item>
+        <item>83152</item>
+        <item>80153</item>
+        <item>82153</item>
+        <item>81154</item>
+        <item>83154</item>
+        <item>80155</item>
+        <item>82155</item>
+        <item>80156</item>
+        <item>80157</item>
+        <item>83157</item>
+        <item>80159</item>
+        <item>80161</item>
+        <item>80166</item>
+        <item>80171</item>
+        <item>80180</item>
+        <item>80181</item>
+        <item>80182</item>
+        <item>80183</item>
+        <item>80184</item>
+        <item>80185</item>
+        <item>80191</item>
+        <item>81191</item>
+        <item>82191</item>
+        <item>83191</item>
+        <item>84191</item>
+        <item>85191</item>
+        <item>80193</item>
+        <item>81193</item>
+        <item>80194</item>
+        <item>81194</item>
+        <item>80195</item>
+        <item>81195</item>
+        <item>82195</item>
+        <item>80196</item>
+        <item>80197</item>
+        <item>81197</item>
+        <item>82197</item>
+        <item>83197</item>
+        <item>84197</item>
+        <item>85197</item>
+        <item>80199</item>
+        <item>80210</item>
+        <item>80211</item>
+        <item>80212</item>
+        <item>80214</item>
+        <item>80220</item>
+        <item>80221</item>
+        <item>81221</item>
+        <item>80222</item>
+        <item>80223</item>
+        <item>80224</item>
+        <item>81224</item>
+        <item>80225</item>
+        <item>81225</item>
+        <item>80226</item>
+        <item>80227</item>
+        <item>80229</item>
+        <item>80231</item>
+        <item>80232</item>
+        <item>80250</item>
+        <item>80251</item>
+        <item>80252</item>
+        <item>80254</item>
+        <item>80255</item>
+        <item>80256</item>
+        <item>80260</item>
+        <item>80261</item>
+        <item>80263</item>
+        <item>80271</item>
+        <item>80272</item>
+        <item>80274</item>
+        <item>80275</item>
+        <item>80279</item>
+        <item>80280</item>
+        <item>80281</item>
+        <item>80282</item>
+        <item>80283</item>
+        <item>80284</item>
+        <item>80285</item>
+        <item>80286</item>
+        <item>80287</item>
+        <item>80288</item>
+        <item>80289</item>
+        <item>80311</item>
+        <item>81311</item>
+        <item>80312</item>
+        <item>81312</item>
+        <item>80313</item>
+        <item>80320</item>
+        <item>80321</item>
+        <item>80322</item>
+        <item>80326</item>
+        <item>80330</item>
+        <item>80331</item>
+        <item>80332</item>
+        <item>80333</item>
+        <item>80334</item>
+        <item>80336</item>
+        <item>80337</item>
+        <item>80339</item>
+        <item>80340</item>
+        <item>80341</item>
+        <item>81350</item>
+        <item>82350</item>
+        <item>83350</item>
+        <item>80351</item>
+        <item>80352</item>
+        <item>80353</item>
+        <item>80355</item>
+        <item>80402</item>
+        <item>80410</item>
+        <item>80411</item>
+        <item>80412</item>
+        <item>80414</item>
+        <item>80415</item>
+        <item>80416</item>
+        <item>80417</item>
+        <item>80418</item>
+        <item>80419</item>
+        <item>80420</item>
+        <item>80421</item>
+        <item>80422</item>
+        <item>80423</item>
+        <item>80424</item>
+        <item>80425</item>
+        <item>80426</item>
+        <item>80427</item>
+        <item>80428</item>
+        <item>80429</item>
+        <item>80430</item>
+        <item>80432</item>
+        <item>80441</item>
+        <item>80442</item>
+        <item>80443</item>
+        <item>80444</item>
+        <item>80446</item>
+        <item>80447</item>
+        <item>80448</item>
+        <item>80450</item>
+        <item>80455</item>
+        <item>80460</item>
+        <item>80461</item>
+        <item>80462</item>
+        <item>80463</item>
+        <item>80464</item>
+        <item>80465</item>
+        <item>80466</item>
+        <item>80468</item>
+        <item>80469</item>
+        <item>80471</item>
+        <item>80480</item>
+        <item>80481</item>
+        <item>80482</item>
+        <item>80483</item>
+        <item>80484</item>
+        <item>80485</item>
+        <item>80486</item>
+        <item>80487</item>
+        <item>80488</item>
+        <item>80491</item>
+        <item>80492</item>
+        <item>80493</item>
+        <item>80495</item>
+        <item>80496</item>
+        <item>80497</item>
+        <item>80498</item>
+        <item>80499</item>
+        <item>80500</item>
+        <item>80510</item>
+        <item>81510</item>
+        <item>80511</item>
+        <item>80512</item>
+        <item>80513</item>
+        <item>80514</item>
+        <item>80516</item>
+        <item>80518</item>
+        <item>80519</item>
+        <item>80520</item>
+        <item>80521</item>
+        <item>80522</item>
+        <item>80523</item>
+        <item>80524</item>
+        <item>80525</item>
+        <item>80526</item>
+        <item>80527</item>
+        <item>80528</item>
+        <item>80529</item>
+        <item>81529</item>
+        <item>88529</item>
+        <item>80530</item>
+        <item>80531</item>
+        <item>81531</item>
+        <item>80532</item>
+        <item>80534</item>
+        <item>80535</item>
+        <item>80536</item>
+        <item>80538</item>
+        <item>80539</item>
+        <item>80541</item>
+        <item>80545</item>
+        <item>80546</item>
+        <item>80547</item>
+        <item>80548</item>
+        <item>80551</item>
+        <item>80557</item>
+        <item>80560</item>
+        <item>80561</item>
+        <item>81561</item>
+        <item>82561</item>
+        <item>80562</item>
+        <item>80563</item>
+        <item>80564</item>
+        <item>80566</item>
+        <item>80567</item>
+        <item>80571</item>
+        <item>80572</item>
+        <item>80573</item>
+        <item>80574</item>
+        <item>80575</item>
+        <item>80581</item>
+        <item>80591</item>
+        <item>80601</item>
+        <item>80602</item>
+        <item>80610</item>
+        <item>80611</item>
+        <item>81611</item>
+        <item>80612</item>
+        <item>80613</item>
+        <item>80620</item>
+        <item>80621</item>
+        <item>80622</item>
+        <item>80623</item>
+        <item>80624</item>
+        <item>80625</item>
+        <item>81625</item>
+        <item>80626</item>
+        <item>81626</item>
+        <item>80627</item>
+        <item>80628</item>
+        <item>80629</item>
+        <item>80630</item>
+        <item>80631</item>
+        <item>80632</item>
+        <item>80633</item>
+        <item>80635</item>
+        <item>80640</item>
+        <item>81640</item>
+        <item>80641</item>
+        <item>80642</item>
+        <item>80643</item>
+        <item>80645</item>
+        <item>81650</item>
+        <item>82650</item>
+        <item>80651</item>
+        <item>81651</item>
+        <item>80652</item>
+        <item>80653</item>
+        <item>80654</item>
+        <item>80655</item>
+        <item>80656</item>
+        <item>81656</item>
+        <item>80657</item>
+        <item>81657</item>
+        <item>80658</item>
+        <item>80660</item>
+        <item>80661</item>
+        <item>81661</item>
+        <item>80662</item>
+        <item>80664</item>
+        <item>80665</item>
+        <item>80666</item>
+        <item>80667</item>
+        <item>80669</item>
+        <item>81669</item>
+        <item>80671</item>
+        <item>80672</item>
+        <item>81672</item>
+        <item>80673</item>
+        <item>80681</item>
+        <item>80682</item>
+        <item>80683</item>
+        <item>80684</item>
+        <item>80685</item>
+        <item>80686</item>
+        <item>81686</item>
+        <item>80687</item>
+        <item>80688</item>
+        <item>80690</item>
+        <item>80691</item>
+        <item>80695</item>
+        <item>80711</item>
+        <item>80712</item>
+        <item>80713</item>
+        <item>80714</item>
+        <item>80716</item>
+        <item>80717</item>
+        <item>80720</item>
+        <item>80721</item>
+        <item>80722</item>
+        <item>80723</item>
+        <item>80724</item>
+        <item>80725</item>
+        <item>80726</item>
+        <item>80727</item>
+        <item>80815</item>
+        <item>80822</item>
+        <item>80824</item>
+        <item>80827</item>
+        <item>81827</item>
+        <item>80828</item>
+        <item>80865</item>
+        <item>80876</item>
+        <item>80911</item>
+        <item>80912</item>
+        <item>80913</item>
+        <item>8L121</item>
+        <item>8L122</item>
+        <item>8L123</item>
+        <item>8N101</item>
+        <item>8N102</item>
+        <item>8N103</item>
+        <item>8N202</item>
+        <item>8N203</item>
+        <item>8N301</item>
+        <item>8N302</item>
+        <item>8N303</item>
+        <item>8N401</item>
+        <item>8N402</item>
+        <item>8N501</item>
+        <item>8N502</item>
+        <item>8N503</item>
+        <item>8N504</item>
+        <item>8N602</item>
+        <item>8N603</item>
+        <item>8N701</item>
+        <item>8N702</item>
+        <item>8N801</item>
+        <item>8N802</item>
+        <item>8N803</item>
+        <item>8N804</item>
+        <item>8N805</item>
+        <item>8N806</item>
+        <item>8N901</item>
+        <item>8N902</item>
+        <item>8N903</item>
+        <item>8N904</item>
+        <item>8N905</item>
+        <item>8N906</item>
+    </string-array>
+    <string-array name="array_interurbanos_diurno">
+        <item>151 Madrid(Pza.Castilla)-Alcobendas</item>
+        <item>152A Madrid (Chamartín) - San Sebastian de los Reyes (Por Fuencarral)</item>
+        <item>152B Madrid(Pinar de Chamartin)-S.S.Reyes</item>
+        <item>152C Madrid (Plaza Castilla) -San S. Reyes (Dehesa Vieja)</item>
+        <item>153 Madrid(P.Castilla)-Alcobendas-R.Luxemb</item>
+        <item>153B Madrid(Pinar de Chamartin)-Alcob.-R.Luxemb</item>
+        <item>154A Madrid(Chamartín)-S.S.Reyes-R.Luxemb.(Por Fuencarral)</item>
+        <item>154C Madrid (Plaza Castilla) - San S. Reyes (Avda. de los</item>
+        <item>155 Madrid(P.Castilla)-El Soto de la Moraleja</item>
+        <item>155B Madrid(P.Castilla)-El Encinar de los Reyes</item>
+        <item>156 Madrid(P.Cast.)-S.S.Reyes(P.I.Moscatelares)</item>
+        <item>157 Madrid(Pza.Castilla)-Alcobendas(P.Chopera)</item>
+        <item>157C Madrid(P.Cast.)-Alcob.(Valdelasfuentes)</item>
+        <item>159 Madrid(P.Castilla)-Alcobendas(A.de la Vega)</item>
+        <item>161 Madrid(P.Castilla)-Urb.Fuente del Fresno</item>
+        <item>166 Madrid(Pza. Castilla) - Urb. Valdelagua</item>
+        <item>171 Madrid(Pza. Castilla)-Urb.Santo Domingo</item>
+        <item>180 Alcobendas-Algete</item>
+        <item>181 Madrid(Pza.Castilla)-Algete</item>
+        <item>182 Madrid (Pza. Castilla) - Algete - Valdeolmos</item>
+        <item>183 Madrid (Pza. Castilla) - Cobeña - Algete</item>
+        <item>184 Madrid(Pza.Castilla)-El Casar</item>
+        <item>185 Madrid(Pza.Castilla)-Nuevo Algete</item>
+        <item>191 Madrid(Pza.Castilla)-Buitrago</item>
+        <item>191A Buitrago-Braojos</item>
+        <item>191B Buitrago-Somosierra</item>
+        <item>191C Buitrago-Montejo de la Sierra</item>
+        <item>191D Buitrago-Robledillo de la Jara</item>
+        <item>191E Buitrago-Cervera de Buitrago</item>
+        <item>193 Madrid(Pza.Castilla)-Pedrezuela-El Vellon</item>
+        <item>193A El Molar - Cotos de Monterrey - Venturada</item>
+        <item>194 Madrid(Pza.Castilla)-Rascafria</item>
+        <item>194A Buitrago-Lozoyuela-Rascafría</item>
+        <item>195 Madrid(Pza.Castilla)-Braojos</item>
+        <item>195A Circular Buitrago - Gargantilla (Por Lozoyuela)</item>
+        <item>195B Circular Buitrago - Gargantilla</item>
+        <item>196 Madrid(Pza.Castilla)-La Acebeda</item>
+        <item>197 Madrid(Pza.Castilla)-Torrelaguna/Uceda</item>
+        <item>197A Torrelaguna-Patones-Uceda</item>
+        <item>197B Torrelaguna-El Berrueco-La Cabrera</item>
+        <item>197C Torrelaguna - Venturada/Cabanillas</item>
+        <item>197D Torrelaguna - El Vellón - El Molar</item>
+        <item>197E Torrelaguna - Valdepiélagos -Talamanca</item>
+        <item>199 Madrid(Pza.Castilla)-Horcajuelo-Montejo</item>
+        <item>210 S.S. Reyes (Hospital) - Paracuellos de Jarama</item>
+        <item>211 Madrid(Ciudad Lineal)-Paracuellos-Belvis</item>
+        <item>212 Madrid (Canillejas) - Paracuellos (Berrocales)</item>
+        <item>214 Madrid (Barajas) - Paracuellos de Jarama (Miramadrid)</item>
+        <item>220 Torrejón de Ardoz-San Fernando de Henares</item>
+        <item>221 Madrid(Avda.America) - Guadalajara</item>
+        <item>221A Alcalá de Henares-Guadalajara(Por Alovera)</item>
+        <item>222 Madrid(Avda.America)-Meco</item>
+        <item>223 Madrid(Avda.America)-Alcala de Henares</item>
+        <item>224 Madrid(Avda.America)-Torrejon de Ardoz</item>
+        <item>224A Madrid (Avda. América) - Torrejón de Ardoz (La Mancha Amarilla)</item>
+        <item>225 Alcala de Henares-Torrejon de Ardoz</item>
+        <item>225A Alcala H.(Hospital-Univer)-Torrejon</item>
+        <item>226 Madrid (Avda. America)-Torrejon de Ardoz(Las Veredillas)</item>
+        <item>227 Madrid(Avd.Ameri)-Alcala(Espartales-Univer)</item>
+        <item>229 Madrid(Avd. América) - Alcala(Virgen del Val)</item>
+        <item>231 Alcala de Henares - Urb. Zulema - El</item>
+        <item>232 Alcala de Henares-Torres de la Alameda</item>
+        <item>250 Alcala de Henares-Meco</item>
+        <item>251 Torrejón - Valdeavero - Alcalá</item>
+        <item>252 Torrejon - Daganzo - Alcala</item>
+        <item>254 Valdeolmos/Fuente El Saz - Alcalá de Henares</item>
+        <item>255 Valdeavero-Camarma de Esteruelas-Alcalá de Henares</item>
+        <item>256 Madrid (Barajas) - Daganzo - Valdeavero</item>
+        <item>260 Alcala de Henares-Ambite-Orusco</item>
+        <item>261 Madrid(Av.America)-N.Baztan-Villar del Olmo</item>
+        <item>263 Madrid(Barajas)-Cobeña-Algete</item>
+        <item>271 Alcala de Henares - Pezuela - Pioz</item>
+        <item>272 Alcalá de Henares - Villalbilla</item>
+        <item>274 Madrid(Est.Sur)-Albalate de Zorita</item>
+        <item>275 Alcala-Los Santos de la Humosa-Alcala</item>
+        <item>279 Madrid(Est.Sur)-Sacedon</item>
+        <item>280 Coslada (Ff.Cc.) - Hospital - Loeches</item>
+        <item>281 Madrid(Avda.America)-S.Fernando de H.</item>
+        <item>282 Madrid(Avda. America)-S. Fernando-Mejorada</item>
+        <item>283 Madrid(Avda.de América)-Coslada-San Fernando</item>
+        <item>284 Madrid(Avda.America)-Velilla-Loeches</item>
+        <item>285 Coslada (San Fernando Ff. Cc.) - Velilla - Arganda del Rey</item>
+        <item>286 Madrid(Ciudad Lineal)-Coslada(Ciudad 70)</item>
+        <item>287 Madrid (Alsacia) - Coslada (Barrio Estación)</item>
+        <item>288 Madrid (Ciudad Lineal) - Coslada - San Fernando</item>
+        <item>289 Madrid (Ciudad Lineal ) - Coslada (Hospital)</item>
+        <item>311 Madrid(Conde Casal)-Arganda del Rey</item>
+        <item>311A Madrid(Conde Casal)-Arganda(Por la Poveda)</item>
+        <item>312 Madrid(C.Casal)-Arganda(El Mirador)</item>
+        <item>312A Madrid(C.Casal)-Arganda(El Mirador)por Pove</item>
+        <item>313 Madrid(Conde Casal)-Valdilecha</item>
+        <item>320 Arganda del Rey-Alcala de Henares</item>
+        <item>321 Arganda (Hospital) - Villar del Olmo</item>
+        <item>322 Arganda del Rey (Hospital) - Ambite</item>
+        <item>326 Madrid(Conde Casal)-Mondejar-Driebes</item>
+        <item>330 Rivas-Arganda(Hospital)-Morata</item>
+        <item>331 Madrid(C.Casal)-Rivas-Urbaniz.(Sta.Monica)</item>
+        <item>332 Madrid (Conde de Casal)-Rivas (Pueblo)</item>
+        <item>333 Madrid(C.Casal)-Rivas Urbaniz.(Covibar II)</item>
+        <item>334 Madrid(C.Casal)-Rivas Urbaniz.-Rivas Futura</item>
+        <item>336 Madrid(Conde Casal)-Morata de Tajuña</item>
+        <item>337 Madrid(Conde Casal)-Chinchon-Valdelaguna</item>
+        <item>339 Madrid (Conde de Casal) - Valdemingómez</item>
+        <item>340 Torrejon de Ardoz-Mejorada del Campo</item>
+        <item>341 Madrid(C.Casal)-Mejorada-Velilla</item>
+        <item>350A Arganda(Hospital)-Estremera</item>
+        <item>350B Arganda(Hospital)-Villarejo-Fuentidueña</item>
+        <item>350C Arganda(Hospital)-Belmonte-Villamanrique</item>
+        <item>351 Madrid(Rda.Atocha)-Estremera-Barajas de Melo</item>
+        <item>352 Madrid(Rda.Atocha)-Fuentidueña-Tarancon</item>
+        <item>353 Madrid(Rda.Atocha)-Villamanrique-Sta.Cruz</item>
+        <item>355 Fuentidueña de Tajo- Centro Penitenciario - Estremera</item>
+        <item>402 Madrid (Plaza Elíptica) -Torrejón de la Calzada - Toledo</item>
+        <item>410 Aranjuez-Ciempozuelos-S.Martin de la Vega</item>
+        <item>411 Madrid(Legazpi)-Perales del Rio</item>
+        <item>412 Madrid (Villaverde Bajo - Cruce) - San Martín de la Vega</item>
+        <item>414 Madrid (Villaverde Bajo - Cruce) - C.P. Madrid III</item>
+        <item>415 Madrid (Villaverde Bajo - Cruce) - Villaconejos</item>
+        <item>416 Valdemoro (Hospital) - Titulcia - Colmenar de Oreja</item>
+        <item>417 San Martin de la Vega - Valdemoro (Hospital)</item>
+        <item>418 Madrid(Est.Sur)-T.Calzada-Añover/Mora</item>
+        <item>419 Madrid(Est.Sur)-Aranjuez-Quintanar de la O.</item>
+        <item>420 Aranjuez-C.P.Madrid VI</item>
+        <item>421 Madrid(Legazpi)-Pinto</item>
+        <item>422 Madrid(Legazpi)-Valdemoro</item>
+        <item>423 Madrid(Est.Sur)-Aranjuez</item>
+        <item>424 Madrid(Legazpi)-Valdemoro(El Restón)</item>
+        <item>425 Valdemoro (Hospital) - Ciempozuelos</item>
+        <item>426 Madrid(Legazpi)-Ciempozuelos</item>
+        <item>427 Madrid (Villaverde Bajo - Cruce) - Area Empresarial Andalucia - Pinto</item>
+        <item>428 Getafe - Valdemoro</item>
+        <item>429 Madrid (Legazpi) - Aranjuez (Pau de la Montaña)</item>
+        <item>430 Aranjuez-Villarejo de Salvanes</item>
+        <item>432 Madrid (Villaverde Bajo - Cruce) - Leganes</item>
+        <item>441 Madrid (Plaza Elíptica) - Getafe (Sector III - Paseo Juan José Rosón)</item>
+        <item>442 Madrid (Plaza Elíptica) - Getafe (Juan de la Cierva)</item>
+        <item>443 Madrid (Plaza Elíptica) - Getafe (Barrio las Margaritas)</item>
+        <item>444 Madrid (Plaza Elíptica) - Getafe (Sector III - Islas Canarias)</item>
+        <item>446 Madrid (Plaza Elíptica) - Getafe (El Bercial)</item>
+        <item>447 Madrid(Legazpi)-Getafe(Hospital)</item>
+        <item>448 Madrid(Legazpi)-Getafe(Por Villaverde)</item>
+        <item>450 Getafe-Leganes-Alcorcon</item>
+        <item>455 Getafe-Pinto</item>
+        <item>460 Madrid(Plaza Elíptica) - Parla - Batres</item>
+        <item>461 Madrid(Plaza Elíptica) - Parla</item>
+        <item>462 Getafe-Parla</item>
+        <item>463 Madrid(Plaza Elíptica) - Parla - Torrejon de Velasco</item>
+        <item>464 Madrid(Plaza Elíptica) - Parla - Yunclillos</item>
+        <item>465 Parla (Ffcc) - Illescas - El Viso</item>
+        <item>466 Parla - Valdemoro</item>
+        <item>468 Getafe-Griñon/Casarrubuelos/Serranillos</item>
+        <item>469 Madrid (Plaza Elíptica) - Parla (Parla Este - Hospital)</item>
+        <item>471 Humanes-Fuenlabrada-Parla-Pinto</item>
+        <item>480 Madrid (Plaza Elíptica) - Leganés (Estación Central)</item>
+        <item>481 Madrid(Plaza Elíptica) - Leganes(Parquesur-Hospital)</item>
+        <item>482 Madrid(Aluche)-Leganes-Fuenlabrada(Loranca)</item>
+        <item>483 Madrid (Aluche) - Leganes (Vereda de los Estudiantes)</item>
+        <item>484 Madrid(Oporto)-Leganés(Est.Ffcc)</item>
+        <item>485 Madrid (Aluche) - Leganés (Norte - Montepinos)</item>
+        <item>486 Madrid(Plaza Elíptica) - Leganes(Valdepelayo)</item>
+        <item>487 Madrid (Aluche) - Leganes (San Nicasio)</item>
+        <item>488 Leganes(S.Nicasio)-Getafe(Getafe Norte)</item>
+        <item>491 Madrid(Aluche)-Fuenlabrada(B.Naranjo)</item>
+        <item>492 Madrid(Aluche)-Fuenlabrada(P.Granada)</item>
+        <item>493 Madrid(Aluche)-Fuenlabrada(Urb.Loranca)</item>
+        <item>495 Madrid(Príncipe Pío) - Arroyomolinos - Moraleja de Enmedio</item>
+        <item>496 Leganés (Pq. Sur) - Moraleja de Enmedio - Arroyomolinos (Xanadú)</item>
+        <item>497 Leganés (Pq. Sur) - Moraleja de Enmedio (Las Colinas)</item>
+        <item>498 M0stoles-Arroyomolinos-Moraleja de Enmedio-Fuenlabrada (Hospital)</item>
+        <item>499 Móstoles - Arroyomolinos</item>
+        <item>500 Opera-Glorieta de los Carmenes</item>
+        <item>510 Alcorcon-Villaviciosa-El Bosque</item>
+        <item>510A Alcorcon(Pta del Sur)-Villaviciosa(Directo)</item>
+        <item>511 Madrid(Príncipe Pío) - Alcorcon(Por Parque Lisboa)</item>
+        <item>512 Madrid(P.Pio) - Alcorcon(Por C.Cantos)</item>
+        <item>513 Madrid(P.Pio)-Alcorcon(P.I.Urtinsa)</item>
+        <item>514 Madrid (Príncipe Pio) - Alcorcón (Los Castillos)</item>
+        <item>516 Madrid(P.Pio)-Alcorc(Por U.Rey Juan Carlos)</item>
+        <item>518 Madrid(Príncipe Pío)-Villaviciosa de Odon</item>
+        <item>519 Mostoles-Villaviciosa de Odon</item>
+        <item>520 Alcorcon-Mostoles</item>
+        <item>521 Madrid(Príncipe Pío) - Móstoles</item>
+        <item>522 Madrid (Príncipe Pío) - Móstoles (Por Pistas Dgt)</item>
+        <item>523 Madrid(P.Pio)-Mostoles(Villafontana)</item>
+        <item>524 Móstoles (Est. Ffcc) - Parque Coimbra</item>
+        <item>525 Fuenlabrada-Mostoles(Hospital) Circular</item>
+        <item>526 Fuenlabrada-Mostoles(Ffcc) Circular</item>
+        <item>527 Móstoles(Est. Ffcc) -Fuenlabrada (Loranca)</item>
+        <item>528 Madrid(P.Pio)-Navalcarnero</item>
+        <item>529 Alcorcón (Hospital) - Navalcarnero - El Alamo</item>
+        <item>529A Alcorcón (Hospital) - Navalcarnero - Batres</item>
+        <item>529H Alcorcón(Hospital) - Móstoles - Navalcarnero</item>
+        <item>530 Navalcarnero-Villanueva de la Cañada</item>
+        <item>531 Alcorcón (Hospital) - Navalcarnero - Sevilla la</item>
+        <item>531A Alcorcón (Hospital) - Navalcarnero - Villamantilla</item>
+        <item>532 Madrid (Colonia Jardín) - Sevilla la Nueva</item>
+        <item>534 Madrid(P.Pío) - Urb. Parque Coimbra - Xanadú</item>
+        <item>535 Alcorcón (Alcorcón Central) - Urb. Calypo Fado</item>
+        <item>536 Madrid(Est.Sur)-Fuensalida</item>
+        <item>538 Villaviciosa de Odón (Uem) - Boadilla (Puerta de Boadilla)</item>
+        <item>539 Madrid (Príncipe Pïo) - El Álamo</item>
+        <item>541 Madrid(Príncipe Pío) - Villamanta - la Torre de E. Hambran</item>
+        <item>545 Madrid(Príncipe Pío) - Cenicientos - Sotillo de la Adrada</item>
+        <item>546 Madrid(Príncipe Pío) - Rozas de Puerto Real - Casillas</item>
+        <item>547 Madrid(Principe Pio)-V.del Prado-Almorox-Aldeaencabo</item>
+        <item>548 Madrid(Príncipe Pío) - Aldea del Fresno - Calalberche</item>
+        <item>551 Madrid(P.Pio)-S.M.de Valdeiglesias-El Tiemblo/Cebreros</item>
+        <item>557 S.M.de Valdeiglesias - Cadalso - Villa del Prado</item>
+        <item>560 Pozuelo de Alarcón - Alcorcón</item>
+        <item>561 Madrid(Aluche)-Pozuelo-Majadahon.-Las Rozas</item>
+        <item>561A Madrid(Aluche)-Pozuel0-Majad-Rozas(Univers)</item>
+        <item>561B Madrid(Aluche)-Poz-Maj-Roz(Por C/Guadarrama</item>
+        <item>562 Madrid (Aluche) - Pozuelo de Alarcón</item>
+        <item>563 Madrid(Aluche)-Pozuelo(Por U.Las Minas)</item>
+        <item>564 Madrid (Aluche) - Pozuelo (Por Somosaguas Sur)</item>
+        <item>566 Boadilla del Monte-Pozuelo de Alarcon</item>
+        <item>567 Villaviciosa de Odon-Majadahonda</item>
+        <item>571 Madrid(Aluche)-Boadilla(Por Urb. Monteprincipe)</item>
+        <item>572 Madrid (Aluche) - Ciudad de la Imagen</item>
+        <item>573 Madrid (Moncloa) - Boadilla (Por Urb. Monteprincipe)</item>
+        <item>574 Madrid (Aluche) - Boadilla del Monte (Por Ciudad Financiera)</item>
+        <item>575 Boadilla del Monte-Brunete</item>
+        <item>581 Madrid(Príncipe Pío) - Brunete - Quijorna</item>
+        <item>591 Madrid (Aluche )- Boadilla (F.Informatica)</item>
+        <item>601 Madrid(Moncloa) - El Pardo - Mingorrubio</item>
+        <item>602 Madrid (Hospital la Paz) - El Pardo - Mingorrubio</item>
+        <item>610 Torrelodones-Hoyo de Manzanares-Colmenar</item>
+        <item>611 Madrid(Moncloa)-Hoyo de Manzanares</item>
+        <item>611A Madrid(Moncloa)-Hoyo de Manzanares(Por Urb.Las Colinas)</item>
+        <item>612 Madrid(Moncloa)-Torrelodones</item>
+        <item>613 Madrid (Moncloa) - Torrelodones (Hospital)</item>
+        <item>620 Las Matas - Hospital Puerta de Hierro</item>
+        <item>621 Madrid(Moncloa)-Las Rozas</item>
+        <item>622 Madrid(Moncloa)-Las Rozas-Las Matas</item>
+        <item>623 Madrid(Moncloa)-Las Rozas-Urb.Villafranca</item>
+        <item>624 Madrid(Moncloa)-Col.Veracruz-Las Rozas</item>
+        <item>625 Madrid(Moncloa)- Monte Rozas</item>
+        <item>625A Las Rozas-Monte Rozas-El Encinar</item>
+        <item>626 Las Rozas-Majadahonda-Vill. de la Cañada</item>
+        <item>626A Majadahonda (Estación Ff.Cc.)-Villanueva del Pardillo</item>
+        <item>627 Madrid(Moncloa)-Vill.Cañada-Brunete</item>
+        <item>628 Madrid(Moncloa)-P.Empresarial-El Cantizal</item>
+        <item>629 Madrid(Moncloa)-Las Rozas(Parque Empresarial)</item>
+        <item>630 Villalba(Est)-Galapagar-Colmenarejo-Valdemorillo</item>
+        <item>631 Madrid (Moncloa) -Torrelod. (Col.) Galapagar - Colmenarejo</item>
+        <item>632 Madrid (Moncloa) - la Navata - Galapagar - El Guijo</item>
+        <item>633 Majadahonda (Hospital) - Colmenarejo</item>
+        <item>635 Madrid(Moncloa)-Torrel.Col.-La Navata-Galapagar</item>
+        <item>640 S.L.El Escorial-Robledo Ch.-Valdemaqueda</item>
+        <item>640A Robledo de Chavela FFCC - Robledo de Chavela</item>
+        <item>641 Madrid(Moncloa)-Valdemorillo</item>
+        <item>642 Madrid(Moncloa)-Colmenar del Arroyo</item>
+        <item>643 Madrid(Moncloa)-Villanueva del Pardillo</item>
+        <item>645 Madrid(Moncloa)-Robledo de Chavela-Cebreros</item>
+        <item>650A Hospital-Majadahonda-Pozuelo-Hospital</item>
+        <item>650B Hospital-Pozuelo-Majadahonda-Hospital</item>
+        <item>651 Madrid (Moncloa) - Majadahonda (Avda. de España)</item>
+        <item>651A Madrid (Moncloa) - Majadahonda (Pinar del Plantío)</item>
+        <item>652 Madrid (Moncloa) - Majadahonda (Granja del Conde)</item>
+        <item>653 Madrid (Moncloa) - Majadahonda (Hospital) Por FFCC</item>
+        <item>654 Madrid (Moncloa) - Majadahonda (Los Negrillos)</item>
+        <item>655 Madrid (Moncloa ) - Majadahonda (Hospital)</item>
+        <item>656 Madrid(Moncloa)-Pozuelo de Alarcon</item>
+        <item>656A Madrid(Moncloa)-Pozuelo(Por C.Huertas)</item>
+        <item>657 Madrid (Moncloa) - Pozuelo (Monteclaro)</item>
+        <item>657A Madrid(Moncloa)-Pozuelo(Urb. la Cabaña)</item>
+        <item>658 Madrid(Moncloa)-Pozuelo(P. de Somosaguas - C. Imagen)</item>
+        <item>660 S.L.El Escorial-Guadarrama-Villalba</item>
+        <item>661 Madrid(Moncloa)-San Lorenzo de El Escorial(Por Galapagar)</item>
+        <item>661A Madrid(Moncloa)-Las Zorreras(Por Galap.)</item>
+        <item>662 Madrid(Moncloa)-Urb.Molino de la Hoz</item>
+        <item>664 Madrid(Moncloa)-S.L.de El Escorial(Guadarrama)</item>
+        <item>665 San Lorenzo de El Escorial-Peguerinos</item>
+        <item>666 S.L.de El Escorial-Zarzalejo-Las Navas del Marques</item>
+        <item>667 Majadahonda (Hospital) - San Lorenzo de El Escorial(Por Galapagar)</item>
+        <item>669 S.L.de El Escorial-Vill.de la Cañada</item>
+        <item>669A S.L.Escor-Fresnedil-Navalagamella-S.L.Escor</item>
+        <item>671 Madrid(Moncloa)-Moralzarzal</item>
+        <item>672 Madrid(Moncloa)-Cerceda(Por Mataelpino)</item>
+        <item>672A Madrid(Moncloa)-Cerceda(Directo)</item>
+        <item>673 Madrid(Moncloa)-Collado Villalba (Los Valles)</item>
+        <item>681 Madrid(Moncloa) - Alpedrete</item>
+        <item>682 Madrid(Moncloa)-Villalba-Guadarrama</item>
+        <item>683 Madrid(Moncloa) - Collado Mediano</item>
+        <item>684 Madrid (Moncloa)-Cercedilla (Por Guadarrama)</item>
+        <item>685 Majadahonda (Hospital)- las Rozas- Guadarrama - Navacerrada</item>
+        <item>686 Madrid(Moncloa)-Torrelodones(Por los Peñascales)</item>
+        <item>686A Madrid(Moncloa)-Torrelodones(Por Montealegre)</item>
+        <item>687 Madrid(Moncloa)-Collado Villalba</item>
+        <item>688 Madrid (Moncloa) - los Molinos</item>
+        <item>690 Guadarrama-Collado Mediano-Navacerrada</item>
+        <item>691 Madrid(Moncloa)-Becerril-Navacerrada-Valdesqui</item>
+        <item>695 Navacerrada - Becerril - Cerceda</item>
+        <item>711 Madrid(Begoña)-El Goloso</item>
+        <item>712 Madrid(P.Castilla)-Tres Cantos(A.Viñuelas)</item>
+        <item>713 Madrid(P.Castilla)-Tres Cantos(A.Encuartes)</item>
+        <item>714 Madrid(Pza.Castilla)-Univ.Autonoma-Univ.Comillas</item>
+        <item>716 Madrid(P.Castilla)-Tres Cantos(S.Viñuelas)</item>
+        <item>717 Madrid (Plaza Castilla) - Tres Cantos (Cineastas)</item>
+        <item>720 Colmenar Viejo - Collado Villalba</item>
+        <item>721 Madrid(Pza.Castilla)-Colmenar Viejo</item>
+        <item>722 Madrid(P.Castilla)-Colmenar V.(G.Mediterr.)</item>
+        <item>723 Colmenar Viejo-Tres Cantos</item>
+        <item>724 Madrid(P.Castilla)-Manzanares-El Boalo</item>
+        <item>725 Madrid(P.Castilla)-Miraflores-Bustarviejo-Valdemanco</item>
+        <item>726 Madrid(P.Castilla)-Guadalix-Navalafuente</item>
+        <item>727 Colmenar Viejo - San Agustín del Guadalix</item>
+        <item>815 Madrid (Estación Chamartín) - Pozuelo de Alarcón</item>
+        <item>822 Madrid(Aeropuerto)-Coslada -San Fernando de Henares</item>
+        <item>824 Madrid (Aeropuerto) - Torrejón de Ardoz</item>
+        <item>827 Madrid(Canillejas)-Alcobendas-U.Autonoma-Tres Cantos</item>
+        <item>827A S.S. Reyes-Alcobendas-Univ.Autonoma</item>
+        <item>828 Madrid(Canillejas)-Alcobendas-Univ.Aut.</item>
+        <item>865 Madrid (Ciudad Universitaria) - Campus Upm Montegancedo</item>
+        <item>876 Madrid(Pza. Castilla)-Moralzarzal-Collado Villalba</item>
+        <item>911 Buitrago-Montejo-La Hiruela</item>
+        <item>912 Buitrago-Montejo-Puebla de la Sierra</item>
+        <item>913 Torrelaguna-El Atazar</item>
+        <item>L121 Alcorcón - Leganés - Getafe</item>
+        <item>L122 Getafe - Fuenlabrada</item>
+        <item>L123 Fuenlabrada - Móstoles - Alcorcón</item>
+        <item>N101 Madrid (Pza. Castilla)-Alcobendas</item>
+        <item>N102 Madrid(Pza. Castilla)-S.S.de los Reyes</item>
+        <item>N103 Madrid(Pza. Castilla)-Algete</item>
+        <item>N202 Madrid(Avda. América)-Torrejón-Alcalá</item>
+        <item>N203 Madrid(C.Lineal)-Coslada-S.Fernando-Velilla/Loeches</item>
+        <item>N301 Madrid(Conde Casal)-Rivas Urbanizaciones</item>
+        <item>N302 Madrid(Conde Casal)-Rivas Pueblo</item>
+        <item>N303 Madrid(Conde Casal)-Arganda del Rey</item>
+        <item>N401 Madrid(Atocha)-Pinto-Valdemoro</item>
+        <item>N402 Madrid(Atocha)-Ciempozuelos-Aranjuez</item>
+        <item>N501 Madrid (Príncipe Pío) - Alcorcón - Móstoles</item>
+        <item>N502 Madrid (Principe Pio) - Alcorcon</item>
+        <item>N503 Madrid(Principe Pio)-Mostoles (Villafontana)</item>
+        <item>N504 Madrid(Principe Pio)-Villaviciosa de Odón</item>
+        <item>N602 Madrid(Moncloa)-Torrelodones-Collado Villalba</item>
+        <item>N603 Madrid(Moncloa)-Moralzarzal</item>
+        <item>N701 Madrid(Pza. Castilla)-Tres Cantos</item>
+        <item>N702 Madrid (Pza. Castilla)-Colmenar Viejo</item>
+        <item>N801 Madrid(Atocha)-Getafe(Sector III-Pórtico)</item>
+        <item>N802 Madrid(Aluche)-Leganes</item>
+        <item>N803 Madrid(Aluche)-Fuenlabrada(Bº Naranjo)</item>
+        <item>N804 Madrid(Aluche)-Leganes(Arroyo Culebro)</item>
+        <item>N805 Madrid(Atocha)-Getafe (Centro / Sector III)</item>
+        <item>N806 Madrid(Atocha)-Parla</item>
+        <item>N901 Madrid(Moncloa)-Pozuelo-Majadahonda-Madrid</item>
+        <item>N902 Madrid(Moncloa)-Pozuelo (Prado Somosaguas-C. Imagen)</item>
+        <item>N903 Madrid(Moncloa)-Las Rozas-Monte Rozas</item>
+        <item>N904 Madrid(Moncloa)-Torrelodones (Col.)-Galapagar-Colmenarejo</item>
+        <item>N905 Madrid(Moncloa)-Boadilla del Monte</item>
+        <item>N906 Madrid (Moncloa)-Majadahonda-Pozuelo-Madrid</item>
+    </string-array>
+</resources>
