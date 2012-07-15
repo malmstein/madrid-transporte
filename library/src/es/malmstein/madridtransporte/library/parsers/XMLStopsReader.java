@@ -13,8 +13,8 @@ import org.xml.sax.SAXException;
 import org.xml.sax.XMLReader;
 import org.xml.sax.helpers.DefaultHandler;
 
-import es.malmstein.madridtransporte.library.objects.Line;
-import es.malmstein.madridtransporte.library.objects.Stop;
+import es.malmstein.madridtransporte.library.objects.BusLine;
+import es.malmstein.madridtransporte.library.objects.BusStop;
 
 public class XMLStopsReader extends DefaultHandler
 {
@@ -39,9 +39,9 @@ public class XMLStopsReader extends DefaultHandler
 	  public final String STOP_TIME_TAG = "StopTime";
 	  private String coordinateX;
 	  private String coordinateY;
-	  private Line currentLine;
-	  private Stop currentStop;
-	  private List<Stop> stopList;
+	  private BusLine currentLine;
+	  private BusStop currentStop;
+	  private List<BusStop> stopList;
 	  private String value;
 
 	  public XMLStopsReader()
@@ -59,7 +59,7 @@ public class XMLStopsReader extends DefaultHandler
 	      this.value = "";
 	      this.currentLine = null;
 	      this.currentStop = null;
-	      this.stopList = new ArrayList<Stop>();
+	      this.stopList = new ArrayList<BusStop>();
 
 	  }
 
@@ -114,12 +114,12 @@ public class XMLStopsReader extends DefaultHandler
 	      this.currentLine.setMaxFrequency(this.value);
 	  }
 
-	  public List<Stop> getStopList()
+	  public List<BusStop> getStopList()
 	  {
 	    return this.stopList;
 	  }
 
-	  public List<Stop> parse(InputSource paramInputSource)
+	  public List<BusStop> parse(InputSource paramInputSource)
 	    throws IOException, SAXException, ParserConfigurationException
 	  {
 	    initialize();
@@ -134,8 +134,8 @@ public class XMLStopsReader extends DefaultHandler
 	    this.value = "";
 	    String str = paramString2.trim().toLowerCase();
 	    if (str.equalsIgnoreCase("Stop"))
-	      this.currentStop = new Stop();
+	      this.currentStop = new BusStop();
 	    if (str.equalsIgnoreCase("Line"))
-	      this.currentLine = new Line();
+	      this.currentLine = new BusLine();
 	  }
 	}

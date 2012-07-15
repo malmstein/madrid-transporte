@@ -39,5 +39,11 @@ public class MTConstants {
     
     public static String GET_LINE_SKETCH = "https://www.emtmadrid.es/data/mapasLineas/";
     public static String GOOGLE_DIRECTIONS = "https://maps.google.com/maps/api/directions/xml";
+    
+    // Different INTENT_EXTRAS
+    public static class INTENT_EXTRAS{
+        public final static String LOADING = "loading";
+        public final static String ASYNC_TASK = "async_task";        
+    }
 
 }

@@ -5,13 +5,13 @@ import java.util.List;
 
 import android.location.Location;
 
-public class Stop
+public class BusStop
 {
   String coordinateX = "";
   String coordinateY = "";
   String customName = "";
   public String idStop = "";
-  List<Line> lineList = new ArrayList<Line>();
+  List<BusLine> lineList = new ArrayList<BusLine>();
   String name = "";
   String pmv = "";
   String postalAddress = "";
@@ -36,7 +36,7 @@ public class Stop
     return this.idStop;
   }
 
-  public List<Line> getLineList()
+  public List<BusLine> getLineList()
   {
     return this.lineList;
   }
@@ -136,7 +136,7 @@ public class Stop
     this.idStop = paramString;
   }
 
-  public void setLineList(List<Line> paramList)
+  public void setLineList(List<BusLine> paramList)
   {
     this.lineList = paramList;
   }

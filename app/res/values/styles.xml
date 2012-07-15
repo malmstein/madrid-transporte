@@ -1,7 +1,7 @@
 <resources>
 
     <!-- App default theme -->
-    <style name="AppTheme" parent="Theme.Sherlock.ForceOverflow">
+    <style name="AppTheme" parent="Theme.Sherlock.Light">
         <item name="actionBarStyle">@style/ActionBar</item>
         <item name="android:actionBarStyle">@style/ActionBar</item>
         <item name="android:dropDownListViewStyle">@style/DropDownListView</item>
@@ -11,6 +11,11 @@
         <item name="custom_list_selector">@drawable/list_selector_sg</item>
     </style>
     
+    <style name="AppTheme_NoTitle" parent="android:style/Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+             
    	<style name="SemitransparentCustomDialog" parent="android:Theme">
         <item name="android:windowBackground">@color/bg_transparent</item>
         <item name="android:windowIsFloating">true</item>

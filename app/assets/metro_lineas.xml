@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lineas>
+
+	<Linea nombre="Pinar de Chamartín - Valdecarros" numero="L1" nlinea="L1">
+		<Estacion nombre="Pinar de Chamartín" longitud="-3.6659" latitud="40.4814" x="965" y="241">
+			<Correspondencias>
+				<Correspondencia linea="L4" estacion="Pinar de Chamartín"/>
+				<Correspondencia linea="ML1" estacion="Pinar de Chamartín"/>
+			</Correspondencias>
+		</Estacion>
+ 		<Estacion nombre="Bambú" longitud="-3.6764" latitud="40.4763" x="880" y="230"></Estacion>
+ 		<Estacion nombre="Chamartín" longitud="-3.6825" latitud="40.4720" x="805" y="261">
+ 			<Correspondencias>
+				<Correspondencia linea="L10" estacion="Chamartín"/>
+				<Correspondencia linea="CR" estacion="Chamartín"/>
+				<Correspondencia linea="LRR" estacion="Chamartín"/>
+			</Correspondencias>
+		</Estacion>
+ 		<Estacion nombre="Plaza de Castilla" longitud="-3.6893" latitud="40.4660" x="801" y="300">
+ 			<Correspondencias>
+				<Correspondencia linea="L9" estacion="Plaza de Castilla"/>
+				<Correspondencia linea="L10" estacion="Plaza de Castilla"/>
+				<Correspondencia linea="AI" estacion="Plaza de Castilla"/>
+			</Correspondencias>
+		</Estacion>
+ 		<Estacion nombre="Valdeacederas" longitud="-3.6957" latitud="40.4643" x="743" y="301"></Estacion>
+ 		<Estacion nombre="Tetuán" longitud="-3.6981" latitud="40.4613" x="688" y="312"></Estacion>
+ 		<Estacion nombre="Estrecho" longitud="-3.7027" latitud="40.4543" x="654" y="339"></Estacion>
+ 		<Estacion nombre="Alvarado" longitud="-3.7034" latitud="40.4502" x="636" y="377"></Estacion>
+ 		<Estacion nombre="Cuatro Caminos" longitud="-3.7038" latitud="40.4468" x="632" y="420">
+ 			<Correspondencias>
+				<Correspondencia linea="L2" estacion="Cuatro Caminos"/>
+				<Correspondencia linea="L6" estacion="Cuatro Caminos"/>
+			</Correspondencias>
+		</Estacion>
+ 		<Estacion nombre="Rios Rosas" longitud="-3.7018" latitud="40.4420" x="679" y="455"></Estacion>
+ 		<Estacion nombre="Iglesia" longitud="-3.6987" latitud="40.4349" x="733" y="513"></Estacion>
+ 		<Estacion nombre="Bilbao" longitud="-3.7023" latitud="40.4291" x="733" y="550">
+ 			 <Correspondencias>
+				<Correspondencia linea="L4" estacion="Bilbao"/>
+			</Correspondencias>
+		</Estacion>
+ 		<Estacion nombre="Tribunal" longitud="-3.7013" latitud="40.4261" x="733" y="591">
+ 			<Correspondencias>
+				<Correspondencia linea="L10" estacion="Tribunal"/>
+			</Correspondencias>
+		</Estacion>
+ 		<Estacion nombre="Gran Vía" longitud="-3.7016" latitud="40.4200" x="733" y="630">
+ 		 	<Correspondencias>
+				<Correspondencia linea="L5" estacion="Gran Vía"/>
+			</Correspondencias>
+		</Estacion>
+ 		<Estacion nombre="Sol" longitud="-3.7035" latitud="40.4167" x="733" y="697">
+ 			<Correspondencias>
+				<Correspondencia linea="L2" estacion="Sol"/>
+				<Correspondencia linea="L3" estacion="Sol"/>
+			</Correspondencias>
+		</Estacion>
+ 		<Estacion nombre="Tirso de Molina" longitud="-3.704" latitud="40.4123" x="767" y="726"></Estacion>
+ 		<Estacion nombre="Antón Martín" longitud="-3.6987" latitud="40.4121" x="803" y="747"></Estacion>
+ 		<Estacion nombre="Atocha" longitud="-3.6926" latitud="40.4088" x="839" y="768">
+ 		 	<Correspondencias>
+				<Correspondencia linea="AI" estacion="Atocha"/>
+			</Correspondencias>
+		</Estacion>
+ 		<Estacion nombre="Atocha Renfe" longitud="-3.6865" latitud="40.4058" x="876" y="789">
+ 			<Correspondencias>
+				<Correspondencia linea="CR" estacion="Atocha Renfe"/>
+			</Correspondencias>
+		</Estacion>
+ 		<Estacion nombre="Menendez Pelayo" longitud="-3.6809" latitud="40.4043" x="915" y="812"></Estacion>
+ 		<Estacion nombre="Pacífico" longitud="-3.6750" latitud="40.4013" x="952" y="832">
+ 	 		 <Correspondencias>
+				<Correspondencia linea="L6" estacion="Pacífico"/>
+			</Correspondencias>
+		</Estacion>
+ 		<Estacion nombre="Puente de Vallecas" longitud="-3.6686" latitud="40.3979" x="975" y="843"></Estacion>
+ 		<Estacion nombre="Nueva Numancia" longitud="-3.6630" latitud="40.3950" x="996" y="852"></Estacion>
+ 		<Estacion nombre="Portazgo" longitud="-3.6601" latitud="40.3933" x="1016" y="864"></Estacion>
+ 		<Estacion nombre="Buenos Aires" longitud="-3.6529" latitud="40.3914" x="1039" y="876"></Estacion>
+ 		<Estacion nombre="Alto del Arenal" longitud="-3.6465" latitud="40.3900" x="1061" y="885"></Estacion>
+ 		<Estacion nombre="Miguel Hernández" longitud="-3.6406" latitud="40.3876" x="1082" y="896"></Estacion>
+ 		<Estacion nombre="Sierra de Guadalupe" longitud="-3.6348" latitud="40.3833" x="1100" y="908">
+ 		 	<Correspondencias>
+				<Correspondencia linea="CR" estacion="Sierra de Guadalupe"/>
+			</Correspondencias>
+		</Estacion>
+ 		<Estacion nombre="Villa de Vallecas" longitud="-3.6274" latitud="40.3815" x="1114" y="928"></Estacion>
+ 		<Estacion nombre="Congosto" longitud="-3.6186" latitud="40.3713" x="1129" y="948"></Estacion>
+ 		<Estacion nombre="La Gavia" longitud="-3.6126" latitud="40.3701" x="1145" y="962"></Estacion>
+ 		<Estacion nombre="Las Suertes" longitud="-3.5991" latitud="40.3632" x="1166" y="980"></Estacion>
+ 		<Estacion nombre="Valdecarros" longitud="-3.5917" latitud="40.3600" x="1187" y="995"></Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="Las Rosas - Cuatro Caminos" numero="L2" nlinea="L2">
+		<Estacion nombre="Las Rosas" longitud="-3.6017" latitud="40.4229" x="1308" y="636"></Estacion>
+		<Estacion nombre="Avenida de Guadalajara" longitud="-3.6125" latitud="40.4228" x="1265" y="639"></Estacion>
+		<Estacion nombre="Alsacia" longitud="-3.6228" latitud="40.417" x="1225" y="664"></Estacion>
+		<Estacion nombre="La Almudena" longitud="-3.6413" latitud="40.4244" x="1184" y="634"></Estacion>
+		<Estacion nombre="La Elipa" longitud="-3.6491" latitud="40.4270" x="1133" y="589"></Estacion>
+		<Estacion nombre="Ventas" longitud="-3.6632" latitud="40.4320" x="1079" y="532">
+			<Correspondencias>
+				<Correspondencia linea="L5" estacion="Ventas"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Manuel Becerra" longitud="-3.6690" latitud="40.4279" x="1032" y="566">
+			<Correspondencias>
+				<Correspondencia linea="L6" estacion="Manuel Becerra"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Goya" longitud="-3.6756" latitud="40.4248" x="998" y="564">
+			<Correspondencias>
+				<Correspondencia linea="L4" estacion="Goya"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Príncipe de Vergara" longitud="-3.6802" latitud="40.4227" x="956" y="624">
+			<Correspondencias>
+				<Correspondencia linea="L9" estacion="Príncipe de Vergara"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Retiro" longitud="-3.6857" latitud="40.4206" x="911" y="648"></Estacion>
+		<Estacion nombre="Banco de España" longitud="-3.6935" latitud="40.4194" x="854" y="675">
+			<Correspondencias>
+				<Correspondencia linea="CR" estacion="Banco de España"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Sevilla" longitud="-3.6977" latitud="40.4184" x="791" y="689"></Estacion>
+		<Estacion nombre="Sol" longitud="-3.7035" latitud="40.4167" x="733" y="697">
+			 <Correspondencias>
+				<Correspondencia linea="L1" estacion="Sol"/>
+				<Correspondencia linea="L3" estacion="Sol"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Opera" longitud="-3.7101" latitud="40.4178" x="633" y="696">
+			<Correspondencias>
+				<Correspondencia linea="L5" estacion="Opera"/>
+				<Correspondencia linea="LR" estacion="Opera"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Santo Domingo" longitud="-3.7084" latitud="40.4202" x="633" y="641"></Estacion>
+		<Estacion nombre="Noviciado" longitud="-3.7075" latitud="40.4249" x="633" y="591">
+			<Correspondencias>
+				<Correspondencia linea="L3" estacion="Plaza de España"/>
+				<Correspondencia linea="L10" estacion="Plaza de España"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="San Bernardo" longitud="-3.7062" latitud="40.4297" x="631" y="549">
+			<Correspondencias>
+				<Correspondencia linea="L4" estacion="San Bernardo"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Quevedo" longitud="-3.7048" latitud="40.4334" x="633" y="515"></Estacion>
+		<Estacion nombre="Canal" longitud="-3.7043" latitud="40.4385" x="631" y="483">
+			<Correspondencias>
+				<Correspondencia linea="L7" estacion="Canal"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Cuatro Caminos" longitud="-3.7038" latitud="40.4468" x="632" y="420">
+ 			<Correspondencias>
+				<Correspondencia linea="L1" estacion="Cuatro Caminos"/>
+				<Correspondencia linea="L6" estacion="Cuatro Caminos"/>
+			</Correspondencias>
+		</Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="Villaverde Alto - Moncloa" numero="L3" nlinea="L3">
+		<Estacion nombre="Villaverde Alto" longitud="-3.7111" latitud="40.3418" x="687" y="1034">
+			<Correspondencias>
+				<Correspondencia linea="CR" estacion="Villaverde Alto"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="San Cristobal" longitud="-3.6929" latitud="40.3439" x="712" y="1035"></Estacion>
+		<Estacion nombre="Villaverde Bajo Cruce" longitud="-3.6917" latitud="40.3520" x="727" y="1017"></Estacion>
+		<Estacion nombre="Ciudad de los Ángeles" longitud="-3.6933" latitud="40.3604" x="731" y="994"></Estacion>
+		<Estacion nombre="San Fermín-Orcasur" longitud="-3.6944" latitud="40.3697" x="733" y="970"></Estacion>
+		<Estacion nombre="Hospital 12 de Octubre" longitud="-3.6956" latitud="40.3756" x="734" y="948"></Estacion>
+		<Estacion nombre="Almendrales" longitud="-3.6981" latitud="40.3832" x="733" y="926"></Estacion>
+		<Estacion nombre="Legazpi" longitud="-3.6950" latitud="40.3912" x="733" y="891">
+ 			<Correspondencias>
+				<Correspondencia linea="L6" estacion="Legazpi"/>
+				<Correspondencia linea="AI" estacion="Legazpi"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Delicias" longitud="-3.6942" latitud="40.3984" x="733" y="848"></Estacion>
+		<Estacion nombre="Palos de la Frontera" longitud="-3.6960" latitud="40.4031" x="733" y="811">
+ 			<Correspondencias>
+				<Correspondencia linea="AI" estacion="Palos de la Frontera"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Embajadores" longitud="-3.7022" latitud="40.4049" x="733" y="784">
+ 			<Correspondencias>
+				<Correspondencia linea="L5" estacion="Acacias"/>
+				<Correspondencia linea="CR" estacion="Embajadores"/>
+				<Correspondencia linea="AI" estacion="Embajadores"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Lavapies" longitud="-3.7011" latitud="40.4087" x="733" y="742"></Estacion>
+		<Estacion nombre="Sol" longitud="-3.7035" latitud="40.4167" x="733" y="697">
+ 			<Correspondencias>
+				<Correspondencia linea="L1" estacion="Sol"/>
+				<Correspondencia linea="L2" estacion="Sol"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Callao" longitud="-3.7058" latitud="40.4202" x="683" y="660">
+ 			<Correspondencias>
+				<Correspondencia linea="L5" estacion="Callao"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Plaza de España" longitud="-3.7109" latitud="40.4234" x="607" y="604">
+			<Correspondencias>
+				<Correspondencia linea="L2" estacion="Noviciado"/>
+				<Correspondencia linea="L10" estacion="Plaza de España"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Ventura Rodríguez" longitud="-3.7139" latitud="40.4272" x="555" y="571"></Estacion>
+		<Estacion nombre="Argüelles" longitud="-3.7163" latitud="40.4307" x="513" y="549">
+			<Correspondencias>
+				<Correspondencia linea="L4" estacion="Argüelles"/>
+				<Correspondencia linea="L6" estacion="Argüelles"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Moncloa" longitud="-3.7193" latitud="40.4347" x="474" y="526">
+			<Correspondencias>
+				<Correspondencia linea="L6" estacion="Moncloa"/>
+				<Correspondencia linea="AI" estacion="Moncloa"/>
+			</Correspondencias>
+		</Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="Argüelles - Pinar de Chamartín" numero="L4" nlinea="L4">
+		<Estacion nombre="Argüelles" longitud="-3.7163" latitud="40.4307" x="513" y="549">
+			<Correspondencias>
+				<Correspondencia linea="L3" estacion="Argüelles"/>
+				<Correspondencia linea="L6" estacion="Argüelles"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="San Bernardo" longitud="-3.7062" latitud="40.4297" x="631" y="549">
+			<Correspondencias>
+				<Correspondencia linea="L2" estacion="San Bernardo"/>
+			</Correspondencias>
+		</Estacion>
+ 		<Estacion nombre="Bilbao" longitud="-3.7023" latitud="40.4291" x="733" y="550">
+ 			 <Correspondencias>
+				<Correspondencia linea="L1" estacion="Bilbao"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Alonso Martínez" longitud="-3.6956" latitud="40.4275" x="800" y="590">
+			<Correspondencias>
+				<Correspondencia linea="L5" estacion="Alonso Martínez"/>
+				<Correspondencia linea="L10" estacion="Alonso Martínez"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Colón" longitud="-3.6907" latitud="40.4252" x="842" y="595"></Estacion>
+		<Estacion nombre="Serrano" longitud="-3.6878" latitud="40.4253" x="881" y="595"></Estacion>
+		<Estacion nombre="Velázquez" longitud="-3.6836" latitud="40.4251" x="921" y="595"></Estacion>
+		<Estacion nombre="Goya" longitud="-3.6756" latitud="40.4248" x="998" y="594">
+			<Correspondencias>
+				<Correspondencia linea="L2" estacion="Goya"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Lista" longitud="-3.6754" latitud="40.4299" x="1003" y="562"></Estacion>
+		<Estacion nombre="Diego de León" longitud="-3.6747" latitud="40.4347" x="1010" y="532">
+			<Correspondencias>
+				<Correspondencia linea="L5" estacion="Diego de León"/>
+				<Correspondencia linea="L6" estacion="Diego de León"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Avenida de América" longitud="-3.6772" latitud="40.4374" x="953" y="483">
+			<Correspondencias>
+				<Correspondencia linea="L6" estacion="Avenida de América"/>
+				<Correspondencia linea="L7" estacion="Avenida de América"/>
+				<Correspondencia linea="L9" estacion="Avenida de América"/>
+				<Correspondencia linea="AI" estacion="Avenida de América"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Prosperidad" longitud="-3.6745" latitud="40.4439" x="985" y="436"></Estacion>
+		<Estacion nombre="Alfonso XIII" longitud="-3.6678" latitud="40.4484" x="1017" y="415"></Estacion>
+		<Estacion nombre="Avenida de la Paz" longitud="-3.6625" latitud="40.4534" x="1056" y="394"></Estacion>
+		<Estacion nombre="Arturo Soria" longitud="-3.6563" latitud="40.4560" x="1099" y="372"></Estacion>
+		<Estacion nombre="Esperanza" longitud="-3.6457" latitud="40.4593" x="1134" y="351"></Estacion>
+		<Estacion nombre="Canillas" longitud="-3.6354" latitud="40.4646" x="1157" y="324"></Estacion>
+		<Estacion nombre="Mar de Cristal" longitud="-3.6389" latitud="40.4695" x="1164" y="288">
+ 			 <Correspondencias>
+				<Correspondencia linea="L8" estacion="Mar de Cristal"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="San Lorenzo" longitud="-3.6384" latitud="40.4765" x="1154" y="259"></Estacion>
+		<Estacion nombre="Parque de Santa María" longitud="-3.6460" latitud="40.4796" x="1125" y="239"></Estacion>
+		<Estacion nombre="Hortaleza" longitud="-3.6536" latitud="40.4726" x="1074" y="236"></Estacion>
+		<Estacion nombre="Manoteras" longitud="-3.6628" latitud="40.4763" x="1023" y="243"></Estacion>
+		<Estacion nombre="Pinar de Chamartín" longitud="-3.6659" latitud="40.4814" x="965" y="241">
+			<Correspondencias>
+				<Correspondencia linea="L1" estacion="Pinar de Chamartín"/>
+				<Correspondencia linea="ML1" estacion="Pinar de Chamartín"/>
+			</Correspondencias>
+		</Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="Alameda de Osuna - Casa de Campo" numero="L5" nlinea="L5">
+		<Estacion nombre="Alameda de Osuna" longitud="-3.5873" latitud="40.4567" x="1341" y="346"></Estacion>
+		<Estacion nombre="El Capricho" longitud="-3.5943" latitud="40.4528" x="1331" y="383"></Estacion>
+		<Estacion nombre="Canillejas" longitud="-3.6080" latitud="40.4493" x="1312" y="436">
+ 			 <Correspondencias>
+				<Correspondencia linea="AI" estacion="Canillejas"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Torres Arias" longitud="-3.6172" latitud="40.4436" x="1288" y="472"></Estacion>
+		<Estacion nombre="Suanzes" longitud="-3.6269" latitud="40.4409" x="1258" y="496"></Estacion>
+		<Estacion nombre="Ciudad Lineal" longitud="-3.6384" latitud="40.4377" x="1225" y="515">
+ 			 <Correspondencias>
+				<Correspondencia linea="AI" estacion="Ciudad Lineal"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Pueblo Nuevo" longitud="-3.6443" latitud="40.4352" x="1187" y="530">
+ 			 <Correspondencias>
+				<Correspondencia linea="L7" estacion="Pueblo Nuevo"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Quintana" longitud="-3.6490" latitud="40.4329" x="1147" y="532"></Estacion>
+		<Estacion nombre="El Carmen" longitud="-3.6555" latitud="40.4321" x="1108" y="532"></Estacion>
+		<Estacion nombre="Ventas" longitud="-3.6632" latitud="40.4320" x="1079" y="532">
+ 			 <Correspondencias>
+				<Correspondencia linea="L2" estacion="Ventas"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Diego de León" longitud="-3.6747" latitud="40.4347" x="1010" y="532">
+			<Correspondencias>
+				<Correspondencia linea="L4" estacion="Diego de León"/>
+				<Correspondencia linea="L6" estacion="Diego de León"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Nuñez de Balboa" longitud="-3.6830" latitud="40.4323" x="942" y="534">
+ 			 <Correspondencias>
+				<Correspondencia linea="L9" estacion="Nuñez de Balboa"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Ruben Darío" longitud="-3.6890" latitud="40.4334" x="861" y="557"></Estacion>
+		<Estacion nombre="Alonso Martínez" longitud="-3.6956" latitud="40.4275" x="800" y="590">
+			<Correspondencias>
+				<Correspondencia linea="L4" estacion="Alonso Martínez"/>
+				<Correspondencia linea="L10" estacion="Alonso Martínez"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Chueca" longitud="-3.6973" latitud="40.4228" x="761" y="613"></Estacion>
+		<Estacion nombre="Gran Vía" longitud="-3.7016" latitud="40.4200" x="733" y="630">
+ 		 	<Correspondencias>
+				<Correspondencia linea="L1" estacion="Gran Vía"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Callao" longitud="-3.7058" latitud="40.4202" x="683" y="660">
+ 			<Correspondencias>
+				<Correspondencia linea="L3" estacion="Callao"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Opera" longitud="-3.7101" latitud="40.4178" x="632" y="696">
+			<Correspondencias>
+				<Correspondencia linea="L2" estacion="Opera"/>
+				<Correspondencia linea="LR" estacion="Opera"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="La Latina" longitud="-3.7083" latitud="40.4111" x="656" y="727"></Estacion>
+		<Estacion nombre="Puerta de Toledo" longitud="-3.7113" latitud="40.4065" x="688" y="746"></Estacion>
+		<Estacion nombre="Acacias" longitud="-3.7064" latitud="40.4037" x="716" y="783">
+		 	<Correspondencias>
+				<Correspondencia linea="L3" estacion="Embajadores"/>
+				<Correspondencia linea="CR" estacion="Embajadores"/>
+				<Correspondencia linea="AI" estacion="Embajadores"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Pirámides" longitud="-3.7146" latitud="40.4008" x="696" y="815">
+		 	<Correspondencias>
+				<Correspondencia linea="CR" estacion="Pirámides"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Marqués de Vadillo" longitud="-3.7163" latitud="40.3974" x="648" y="841"></Estacion>
+		<Estacion nombre="Urgel" longitud="-3.7242" latitud="40.3930" x="595" y="861"></Estacion>
+		<Estacion nombre="Oporto" longitud="-3.7321" latitud="40.3883" x="539" y="871">
+			<Correspondencias>
+				<Correspondencia linea="L6" estacion="Oporto"/>
+				<Correspondencia linea="AI" estacion="Oporto"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Vista Alegre" longitud="-3.7400" latitud="40.3889" x="507" y="876"></Estacion>
+		<Estacion nombre="Carabanchel" longitud="-3.7447" latitud="40.3878" x="474" y="872"></Estacion>
+		<Estacion nombre="Eugenia de Montijo" longitud="-3.7494" latitud="40.3852" x="446" y="860"></Estacion>
+		<Estacion nombre="Aluche" longitud="-3.7609" latitud="40.3864" x="423" y="840">
+		 	<Correspondencias>
+				<Correspondencia linea="CR" estacion="Aluche"/>
+				<Correspondencia linea="AI" estacion="Aluche"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Empalme" longitud="-3.7665" latitud="40.3908" x="409" y="817"></Estacion>
+		<Estacion nombre="Campamento" longitud="-3.7680" latitud="40.3943" x="399" y="794">
+		 	<Correspondencias>
+				<Correspondencia linea="AI" estacion="Campamento"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Casa de Campo" longitud="-3.7668" latitud="40.3992" x="391" y="756">
+ 			<Correspondencias>
+				<Correspondencia linea="L10" estacion="Casa de Campo"/>
+			</Correspondencias>
+		</Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="Circular" numero="L6" nlinea="L6">
+		<Estacion nombre="Laguna" longitud="-3.7445" latitud="40.3990" x="494" y="808">
+		 	<Correspondencias>
+				<Correspondencia linea="CR" estacion="Laguna"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Carpetana" longitud="-3.7416" latitud="40.3923" x="511" y="844"></Estacion>
+		<Estacion nombre="Oporto" longitud="-3.7321" latitud="40.3883" x="539" y="871">
+			<Correspondencias>
+				<Correspondencia linea="L5" estacion="Oporto"/>
+				<Correspondencia linea="AI" estacion="Oporto"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Opañel" longitud="-3.7235" latitud="40.3853" x="590" y="895"></Estacion>
+		<Estacion nombre="Plaza Elíptica" longitud="-3.7165" latitud="40.3851" x="635" y="905">
+			<Correspondencias>
+				<Correspondencia linea="L11" estacion="Plaza Elíptica"/>
+				<Correspondencia linea="AI" estacion="Plaza Elíptica"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Usera" longitud="-3.7075" latitud="40.3868" x="682" y="897"></Estacion>
+		<Estacion nombre="Legazpi" longitud="-3.6950" latitud="40.3912" x="733" y="891">
+ 			<Correspondencias>
+				<Correspondencia linea="L3" estacion="Legazpi"/>
+				<Correspondencia linea="AI" estacion="Legazpi"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Arganzuela-Planetario" longitud="-3.6886" latitud="40.3930" x="820" y="878"></Estacion>
+		<Estacion nombre="Méndez Álvaro" longitud="-3.6804" latitud="40.3957" x="883" y="863">
+			<Correspondencias>
+				<Correspondencia linea="CR" estacion="Méndez Álvaro"/>
+				<Correspondencia linea="AI" estacion="Méndez Álvaro"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Pacífico" longitud="-3.6750" latitud="40.4013" x="952" y="833">
+ 	 		 <Correspondencias>
+				<Correspondencia linea="L1" estacion="Pacífico"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Conde de Casal" longitud="-3.6700" latitud="40.4084" x="1013" y="754">
+		 	<Correspondencias>
+				<Correspondencia linea="AI" estacion="Conde de Casal"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Sainz de Baranda" longitud="-3.6692" latitud="40.4163" x="1031" y="685">
+		 	<Correspondencias>
+				<Correspondencia linea="L9" estacion="Sainz de Baranda"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="O'Donnell" longitud="-3.6689" latitud="40.4230" x="1039" y="624"></Estacion>
+		<Estacion nombre="Manuel Becerra" longitud="-3.6690" latitud="40.4279" x="1032" y="566">
+			<Correspondencias>
+				<Correspondencia linea="L2" estacion="Manuel Becerra"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Diego de León" longitud="-3.6747" latitud="40.4347" x="1010" y="532">
+			<Correspondencias>
+				<Correspondencia linea="L4" estacion="Diego de León"/>
+				<Correspondencia linea="L5" estacion="Diego de León"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Avenida de América" longitud="-3.6772" latitud="40.4374" x="953" y="483">	
+		<Correspondencias>
+				<Correspondencia linea="L4" estacion="Avenida de América"/>
+				<Correspondencia linea="L7" estacion="Avenida de América"/>
+				<Correspondencia linea="L9" estacion="Avenida de América"/>
+				<Correspondencia linea="AI" estacion="Avenida de América"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="República Argentina" longitud="-3.6853" latitud="40.4450" x="876" y="450"></Estacion>
+		<Estacion nombre="Nuevos Ministerios" longitud="-3.6921" latitud="40.4465" x="800" y="429">
+			<Correspondencias>
+				<Correspondencia linea="L8" estacion="Nuevos Ministerios"/>
+				<Correspondencia linea="L10" estacion="Nuevos Ministerios"/>
+				<Correspondencia linea="CR" estacion="Nuevos Ministerios"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Cuatro Caminos" longitud="-3.7038" latitud="40.4468" x="632" y="420">
+ 			<Correspondencias>
+				<Correspondencia linea="L1" estacion="Cuatro Caminos"/>
+				<Correspondencia linea="L2" estacion="Cuatro Caminos"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Guzmán el Bueno" longitud="-3.7125" latitud="40.4465" x="588" y="422">
+			<Correspondencias>
+				<Correspondencia linea="L7" estacion="Guzmán el Bueno"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Metropolitano" longitud="-3.7183" latitud="40.4466" x="532" y="430"></Estacion>
+		<Estacion nombre="Ciudad Universitaria" longitud="-3.7275" latitud="40.4438" x="469" y="471"></Estacion>
+		<Estacion nombre="Moncloa" longitud="-3.7193" latitud="40.4347" x="474" y="526">	
+			<Correspondencias>
+				<Correspondencia linea="L3" estacion="Moncloa"/>
+				<Correspondencia linea="AI" estacion="Moncloa"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Argüelles" longitud="-3.7163" latitud="40.4307" x="513" y="549">
+			<Correspondencias>
+				<Correspondencia linea="L3" estacion="Argüelles"/>
+				<Correspondencia linea="L4" estacion="Argüelles"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Príncipe Pío" longitud="-3.7201" latitud="40.4203" x="551" y="640">
+		<Correspondencias>
+				<Correspondencia linea="L10" estacion="Príncipe Pío"/>
+				<Correspondencia linea="LR" estacion="Príncipe Pío"/>
+				<Correspondencia linea="CR" estacion="Príncipe Pío"/>
+				<Correspondencia linea="AI" estacion="Príncipe Pío"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Puerta del Ángel" longitud="-3.7269" latitud="40.4138" x="530" y="682"></Estacion>
+		<Estacion nombre="Alto de Extremadura" longitud="-3.7378" latitud="40.4101" x="507" y="721"></Estacion>
+		<Estacion nombre="Lucero" longitud="-3.7453" latitud="40.4046" x="492" y="765"></Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="Hospital del Henares - Pitis" numero="L7" nlinea="L7">
+		<Estacion nombre="Hospital del Henares" longitud="-3.5210" latitud="40.4178" x="1466" y="625"></Estacion>
+		<Estacion nombre="Henares" longitud="-3.5247" latitud="40.4183" x="1482" y="606"></Estacion>
+		<Estacion nombre="Jarama" longitud="-3.5247" latitud="40.4230" x="1480" y="582"></Estacion>
+		<Estacion nombre="San Fernando" longitud="-3.5350" latitud="40.4238" x="1468" y="566"></Estacion>
+		<Estacion nombre="La Rambla" longitud="-3.5464" latitud="40.4246" x="1443" y="553"></Estacion>
+		<Estacion nombre="Coslada Central" longitud="-3.5621" latitud="40.4240" x="1413" y="551">
+			<Correspondencias>
+				<Correspondencia linea="CR" estacion="Coslada Central"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Barrio del Puerto" longitud="-3.5673" latitud="40.4223" x="1382" y="556"></Estacion>
+		<Estacion nombre="Estadio Olímpico" longitud="-3.6020" latitud="40.4329" x="1354" y="560"></Estacion>
+		<Estacion nombre="Las Musas" longitud="-3.6077" latitud="40.4329" x="1322" y="565"></Estacion>
+		<Estacion nombre="San Blas" longitud="-3.6178" latitud="40.4270" x="1290" y="567"></Estacion>
+		<Estacion nombre="Simancas" longitud="-3.6254" latitud="40.4279" x="1263" y="564"></Estacion>
+		<Estacion nombre="García Noblejas" longitud="-3.6320" latitud="40.4291" x="1238" y="557"></Estacion>
+		<Estacion nombre="Ascao" longitud="-3.6416" latitud="40.4301" x="1212" y="546"></Estacion>
+		<Estacion nombre="Pueblo Nuevo" longitud="-3.6443" latitud="40.4352" x="1187" y="530">
+		 	<Correspondencias>
+				<Correspondencia linea="L5" estacion="Pueblo Nuevo"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Barrio de la Concepción" longitud="-3.6520" latitud="40.4385" x="1125" y="498"></Estacion>
+		<Estacion nombre="Parque de las Avenidas" longitud="-3.6630" latitud="40.4390" x="1071" y="483"></Estacion>
+		<Estacion nombre="Cartagena" longitud="-3.6726" latitud="40.4396" x="1008" y="482"></Estacion>
+		<Estacion nombre="Avenida de América" longitud="-3.6772" latitud="40.4374" x="953" y="483">
+			<Correspondencias>
+				<Correspondencia linea="L4" estacion="Avenida de América"/>
+				<Correspondencia linea="L6" estacion="Avenida de América"/>
+				<Correspondencia linea="L9" estacion="Avenida de América"/>
+				<Correspondencia linea="AI" estacion="Avenida de América"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Gregorio Marañón" longitud="-3.6912" latitud="40.4379" x="802" y="482">
+			<Correspondencias>
+				<Correspondencia linea="L10" estacion="Gregorio Marañón"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Alonso Cano" longitud="-3.6982" latitud="40.4383" x="761" y="482"></Estacion>
+		<Estacion nombre="Canal" longitud="-3.7043" latitud="40.4385" x="631" y="483">
+			<Correspondencias>
+				<Correspondencia linea="L2" estacion="Canal"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Islas Filipinas" longitud="-3.7131" latitud="40.4390" x="588" y="477"></Estacion>
+		<Estacion nombre="Guzmán el Bueno" longitud="-3.7125" latitud="40.4465" x="588" y="422">
+			<Correspondencias>
+				<Correspondencia linea="L6" estacion="Guzmán el Bueno"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Francos Rodríguez" longitud="-3.7115" latitud="40.4571" x="588" y="390"></Estacion>
+		<Estacion nombre="Valdezarza" longitud="-3.7158" latitud="40.4665" x="588" y="362"></Estacion>
+		<Estacion nombre="Antonio Machado" longitud="-3.7196" latitud="40.4679" x="589" y="334"></Estacion>
+		<Estacion nombre="Peñagrande" longitud="-3.7208" latitud="40.4744" x="588" y="305"></Estacion>
+		<Estacion nombre="Avenida de la Ilustración" longitud="-3.7184" latitud="40.4802" x="588" y="277"></Estacion>
+		<Estacion nombre="Lacoma" longitud="-3.7236" latitud="40.4851" x="589" y="249"></Estacion>
+		<Estacion nombre="Pitis" longitud="-3.7276" latitud="40.4940" x="589" y="193">
+			<Correspondencias>
+				<Correspondencia linea="CR" estacion="Pitis"/>
+			</Correspondencias>
+		</Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="Nuevos Ministerios - Aeropuerto" numero="L8" nlinea="L8">
+		<Estacion nombre="Nuevos Ministerios" longitud="-3.6921" latitud="40.4465" x="800" y="429">
+			<Correspondencias>
+				<Correspondencia linea="L6" estacion="Nuevos Ministerios"/>
+				<Correspondencia linea="L10" estacion="Nuevos Ministerios"/>
+				<Correspondencia linea="CR" estacion="Nuevos Ministerios"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Colombia" longitud="-3.6768" latitud="40.4575" x="947" y="345">
+			<Correspondencias>
+				<Correspondencia linea="L9" estacion="Colombia"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Pinar del Rey" longitud="-3.6486" latitud="40.4676" x="1051" y="309"></Estacion>
+		<Estacion nombre="Mar de Cristal" longitud="-3.6389" latitud="40.4695" x="1164" y="288">
+ 			 <Correspondencias>
+				<Correspondencia linea="L4" estacion="Mar de Cristal"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Campo de las Naciones" longitud="-3.6164" latitud="40.4639" x="1250" y="278"></Estacion>
+		<Estacion nombre="Aeropuerto T1-T2-T3" longitud="-3.5694" latitud="40.4686" x="1374" y="242"></Estacion>
+		<Estacion nombre="Barajas" longitud="-3.5825" latitud="40.4758" x="1379" y="214"></Estacion>
+		<Estacion nombre="Aeropuerto T4" longitud="-3.5932" latitud="40.4917" x="1376" y="187"></Estacion>		
+	</Linea>
+	
+	
+	<Linea nombre="Mirasierra - Arganda del Rey" numero="L9" nlinea="L9">
+		<Estacion nombre="Mirasierra" longitud="-3.7163" latitud="40.4921" x="685" y="149"></Estacion>
+		<Estacion nombre="Herrera Oria" longitud="-3.7089" latitud="40.4852" x="685" y="194"></Estacion>
+		<Estacion nombre="Barrio del Pilar" longitud="-3.7038" latitud="40.4773" x="702" y="235"></Estacion>
+		<Estacion nombre="Ventilla" longitud="-3.6953" latitud="40.4701" x="734" y="267"></Estacion>
+		<Estacion nombre="Plaza de Castilla" longitud="-3.6893" latitud="40.4660" x="801" y="300">
+ 			<Correspondencias>
+				<Correspondencia linea="L1" estacion="Plaza de Castilla"/>
+				<Correspondencia linea="L10" estacion="Plaza de Castilla"/>
+				<Correspondencia linea="AI" estacion="Plaza de Castilla"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Duque de Pastrana" longitud="-3.6791" latitud="40.4672" x="890" y="302"></Estacion>
+		<Estacion nombre="Pío XII" longitud="-3.6762" latitud="40.4627" x="938" y="313"></Estacion>
+		<Estacion nombre="Colombia" longitud="-3.6768" latitud="40.4575" x="947" y="345">
+			<Correspondencias>
+				<Correspondencia linea="L8" estacion="Colombia"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Concha Espina" longitud="-3.6779" latitud="40.4523" x="948" y="382"></Estacion>
+		<Estacion nombre="Cruz del Rayo" longitud="-3.6786" latitud="40.4427" x="948" y="418"></Estacion>
+		<Estacion nombre="Avenida de América" longitud="-3.6772" latitud="40.4374" x="953" y="483">
+			<Correspondencias>
+				<Correspondencia linea="L4" estacion="Avenida de América"/>
+				<Correspondencia linea="L6" estacion="Avenida de América"/>
+				<Correspondencia linea="L7" estacion="Avenida de América"/>
+				<Correspondencia linea="AI" estacion="Avenida de América"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Nuñez de Balboa" longitud="-3.6830" latitud="40.4323" x="942" y="534">
+			 <Correspondencias>
+				<Correspondencia linea="L5" estacion="Nuñez de Balboa"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Príncipe de Vergara" longitud="-3.6802" latitud="40.4227" x="956" y="624">
+			<Correspondencias>
+				<Correspondencia linea="L2" estacion="Príncipe de Vergara"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Ibiza" longitud="-3.6778" latitud="40.4183" x="989" y="659"></Estacion>
+		<Estacion nombre="Sainz de Baranda" longitud="-3.6692" latitud="40.4163" x="1031" y="685">
+		 	<Correspondencias>
+				<Correspondencia linea="L6" estacion="Sainz de Baranda"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Estrella" longitud="-3.6598" latitud="40.4106" x="1067" y="699"></Estacion>
+		<Estacion nombre="Vinateros" longitud="-3.6524" latitud="40.4103" x="1104" y="711"></Estacion>
+		<Estacion nombre="Artilleros" longitud="-3.6443" latitud="40.4069" x="1141" y="722"></Estacion>
+		<Estacion nombre="Pavones" longitud="-3.6353" latitud="40.4007" x="1179" y="733"></Estacion>
+		<Estacion nombre="Valdebernardo" longitud="-3.6215" latitud="40.3999" x="1216" y="745"></Estacion>
+		<Estacion nombre="Vicálvaro" longitud="-3.6090" latitud="40.4041" x="1253" y="759">
+		 	<Correspondencias>
+				<Correspondencia linea="AI" estacion="Vicálvaro"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="San Cipriano" longitud="-3.6038" latitud="40.4039" x="1288" y="775"></Estacion>
+		<Estacion nombre="Puerta de Arganda" longitud="-3.5968" latitud="40.4017" x="1323" y="797">
+		 	<Correspondencias>
+				<Correspondencia linea="CR" estacion="Puerta de Arganda"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Rivas Urbanizaciones" longitud="-3.5443" latitud="40.3644" x="1393" y="891"></Estacion>
+		<Estacion nombre="Rivas Futura" longitud="-3.5248" latitud="40.3414" x="1408" y="930"></Estacion>
+		<Estacion nombre="Rivas Vaciamadrid" longitud="-3.5149" latitud="40.3222" x="1419" y="962"></Estacion>
+		<Estacion nombre="La Poveda" longitud="-3.4786" latitud="40.3163" x="1437" y="1018"></Estacion>
+		<Estacion nombre="Arganda del Rey" longitud="-3.4540" latitud="40.3017" x="1467" y="1087"></Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="Hospital Infanta Sofía - Puerta del Sur" numero="L10" nlinea="L10">
+		<Estacion nombre="Hospital Infanta Sofía" longitud="-3.6108" latitud="40.5605" x="1037" y="17"></Estacion>
+		<Estacion nombre="Reyes Católicos" longitud="-3.6229" latitud="40.5507" x="1010" y="26"></Estacion>
+		<Estacion nombre="Baunatal" longitud="-3.6357" latitud="40.5542" x="982" y="37"></Estacion>
+		<Estacion nombre="Manuel de Falla" longitud="-3.6473" latitud="40.5501" x="956" y="48"></Estacion>
+		<Estacion nombre="Marqués de la Valdavia" longitud="-3.6371" latitud="40.5412" x="941" y="65"></Estacion>
+		<Estacion nombre="La Moraleja" longitud="-3.6361" latitud="40.5319" x="933" y="90"></Estacion>
+		<Estacion nombre="La Granja" longitud="-3.6574" latitud="40.5276" x="902" y="103"></Estacion>
+		<Estacion nombre="Ronda de la Comunicación" longitud="-3.6623" latitud="40.5160" x="852" y="112"></Estacion>
+		<Estacion nombre="Las Tablas" longitud="-3.6673" latitud="40.5083" x="813" y="124">
+			<Correspondencias>
+				<Correspondencia linea="ML1" estacion="Las Tablas"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Montecarmelo" longitud="-3.6996" latitud="40.5039" x="790" y="144"></Estacion>
+		<Estacion nombre="Tres Olivos" longitud="-3.6941" latitud="40.5026" x="784" y="170"></Estacion>
+		<Estacion nombre="Fuencarral" longitud="-3.6931" latitud="40.4951" x="790" y="198"></Estacion>
+		<Estacion nombre="Begoña" longitud="-3.6859" latitud="40.4803" x="798" y="225"></Estacion>
+		<Estacion nombre="Chamartín" longitud="-3.6825" latitud="40.4720" x="805" y="261">
+ 			<Correspondencias>
+				<Correspondencia linea="L1" estacion="Chamartín"/>
+				<Correspondencia linea="CR" estacion="Chamartín"/>
+				<Correspondencia linea="AI" estacion="Chamartín"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Plaza de Castilla" longitud="-3.6893" latitud="40.4660" x="801" y="300">
+ 			<Correspondencias>
+				<Correspondencia linea="L9" estacion="Plaza de Castilla"/>
+				<Correspondencia linea="L1" estacion="Plaza de Castilla"/>
+				<Correspondencia linea="AI" estacion="Plaza de Castilla"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Cuzco" longitud="-3.6902" latitud="40.4585" x="802" y="340"></Estacion>
+		<Estacion nombre="Santiago Bernabeu" longitud="-3.6903" latitud="40.4521" x="802" y="378"></Estacion>
+		<Estacion nombre="Nuevos Ministerios" longitud="-3.6921" latitud="40.4465" x="800" y="429">
+			<Correspondencias>
+				<Correspondencia linea="L6" estacion="Nuevos Ministerios"/>
+				<Correspondencia linea="L8" estacion="Nuevos Ministerios"/>
+				<Correspondencia linea="CR" estacion="Nuevos Ministerios"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Gregorio Marañón" longitud="-3.6912" latitud="40.4379" x="802" y="482">
+			<Correspondencias>
+				<Correspondencia linea="L7" estacion="Gregorio Marañón"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Alonso Martínez" longitud="-3.6956" latitud="40.4275" x="800" y="590">
+			<Correspondencias>
+				<Correspondencia linea="L4" estacion="Alonso Martínez"/>
+				<Correspondencia linea="L5" estacion="Alonso Martínez"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Tribunal" longitud="-3.7013" latitud="40.4261" x="733" y="591">
+ 			<Correspondencias>
+				<Correspondencia linea="L1" estacion="Tribunal"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Plaza de España" longitud="-3.7109" latitud="40.4234" x="607" y="604">
+			<Correspondencias>
+				<Correspondencia linea="L2" estacion="Noviciado"/>
+				<Correspondencia linea="L3" estacion="Plaza de España"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Príncipe Pío" longitud="-3.7201" latitud="40.4203" x="551" y="640">
+			<Correspondencias>
+				<Correspondencia linea="L6" estacion="Príncipe Pío"/>
+				<Correspondencia linea="LR" estacion="Príncipe Pío"/>
+				<Correspondencia linea="CR" estacion="Príncipe Pío"/>
+				<Correspondencia linea="AI" estacion="Príncipe Pío"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Lago" longitud="-3.7347" latitud="40.4174" x="490" y="682"></Estacion>
+		<Estacion nombre="Batán" longitud="-3.7524" latitud="40.4082" x="434" y="722"></Estacion>
+		<Estacion nombre="Casa de Campo" longitud="-3.7668" latitud="40.3992" x="391" y="756">
+ 			<Correspondencias>
+				<Correspondencia linea="L5" estacion="Casa de Campo"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Colonia Jardín" longitud="-3.7744" latitud="40.3970" x="357" y="806">
+			<Correspondencias>
+				<Correspondencia linea="ML2" estacion="Colonia Jardín"/>
+				<Correspondencia linea="ML3" estacion="Colonia Jardín"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Aviación Española" longitud="-3.7838" latitud="40.3838" x="330" y="900"></Estacion>
+		<Estacion nombre="Cuatro Vientos" longitud="-3.7912" latitud="40.3779" x="325" y="955">
+ 			<Correspondencias>
+				<Correspondencia linea="CR" estacion="Cuatro Vientos"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Joaquín Vilumbrales" longitud="-3.8077" latitud="40.3498" x="317" y="1016"></Estacion>
+		<Estacion nombre="Puerta del Sur" longitud="-3.8122" latitud="40.3452" x="280" y="1055">
+ 			<Correspondencias>
+				<Correspondencia linea="L12" estacion="Puerta del Sur"/>
+			</Correspondencias>
+		</Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="Plaza Elíptica - La Peseta" numero="L11" nlinea="L11">
+		<Estacion nombre="Plaza Elíptica" longitud="-3.7165" latitud="40.3851" x="635" y="902">
+			<Correspondencias>
+				<Correspondencia linea="L6" estacion="Plaza Elíptica"/>
+				<Correspondencia linea="AI" estacion="Plaza Elíptica"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Abrantes" longitud="-3.7273" latitud="40.3816" x="613" y="933"></Estacion>
+		<Estacion nombre="Pan Bendito" longitud="-3.7346" latitud="40.3757" x="586" y="954"></Estacion>
+		<Estacion nombre="San Francisco" longitud="-3.7390" latitud="40.3735" x="541" y="962"></Estacion>
+		<Estacion nombre="Carabanchel Alto" longitud="-3.7528" latitud="40.3705" x="505" y="965"></Estacion>
+		<Estacion nombre="La Peseta" longitud="-3.7564" latitud="40.3627" x="469" y="966"></Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="MetroSur" numero="L12" nlinea="L12">
+		<Estacion nombre="Puerta del Sur" longitud="-3.8122" latitud="40.3452" x="280" y="1055">
+			<Correspondencias>
+				<Correspondencia linea="L10" estacion="Puerta del Sur"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Parque Lisboa" longitud="-3.8208" latitud="40.3492" x="237" y="1045"></Estacion>
+		<Estacion nombre="Alcorcón Central" longitud="-3.8319" latitud="40.3502" x="183" y="1050">
+ 			<Correspondencias>
+				<Correspondencia linea="CR" estacion="Alcorcón Central"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Parque Oeste" longitud="-3.8496" latitud="40.3459" x="140" y="1062"></Estacion>
+		<Estacion nombre="Universidad Rey Juan Carlos" longitud="-3.8732" latitud="40.3346" x="92" y="1091"></Estacion>
+		<Estacion nombre="Móstoles Central" longitud="-3.8635" latitud="40.3288" x="112" y="1134">
+ 			<Correspondencias>
+				<Correspondencia linea="CR" estacion="Móstoles Central"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Pradillo" longitud="-3.8653" latitud="40.3217" x="113" y="1160"></Estacion>
+		<Estacion nombre="Hospital de Móstoles" longitud="-3.8744" latitud="40.3161" x="89" y="1191"></Estacion>
+		<Estacion nombre="Manuela Malasaña" longitud="-3.8648" latitud="40.3091" x="118" y="1220"></Estacion>
+		<Estacion nombre="Loranca" longitud="-3.8351" latitud="40.2966" x="186" y="1247"></Estacion>
+		<Estacion nombre="Hospital de Fuenlabrada" longitud="-3.8132" latitud="40.2853" x="251" y="1267"></Estacion>
+		<Estacion nombre="Parque Europa" longitud="-3.8059" latitud="40.2852" x="293" y="1276"></Estacion>
+		<Estacion nombre="Fuenlabrada Central" longitud="-3.7992" latitud="40.2833" x="334" y="1282">
+ 			<Correspondencias>
+				<Correspondencia linea="CR" estacion="Fuenlabrada Central"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Parque de los Estados" longitud="-3.7875" latitud="40.2869" x="425" y="1280"></Estacion>
+		<Estacion nombre="Arroyo Culebro" longitud="-3.7568" latitud="40.2891" x="524" y="1267"></Estacion>
+		<Estacion nombre="Conservatorio" longitud="-3.7453" latitud="40.2934" x="581" y="1254"></Estacion>
+		<Estacion nombre="Alonso de Mendoza" longitud="-3.7358" latitud="40.3010" x="623" y="1229"></Estacion>
+		<Estacion nombre="Getafe Central" longitud="-3.7335" latitud="40.3099" x="650" y="1202">
+ 			<Correspondencias>
+				<Correspondencia linea="CR" estacion="Getafe Central"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Juan de la Cierva" longitud="-3.7227" latitud="40.3115" x="686" y="1182"></Estacion>
+		<Estacion nombre="El Casar" longitud="-3.7110" latitud="40.3188" x="707" y="1133">
+ 			<Correspondencias>
+				<Correspondencia linea="CR" estacion="El Casar"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Los Espartales" longitud="-3.7187" latitud="40.3247" x="678" y="1101"></Estacion>
+		<Estacion nombre="El Bercial" longitud="-3.7361" latitud="40.3271" x="647" y="1088"></Estacion>
+		<Estacion nombre="El Carrascal" longitud="-3.7421" latitud="40.3362" x="601" y="1078"></Estacion>
+		<Estacion nombre="Julián Besteiro" longitud="-3.7528" latitud="40.3346" x="555" y="1081"></Estacion>
+		<Estacion nombre="Casa del Reloj" longitud="-3.7596" latitud="40.3268" x="515" y="1106"></Estacion>
+		<Estacion nombre="Hospital Severo Ochoa" longitud="-3.7672" latitud="40.3223" x="477" y="1128"></Estacion>
+		<Estacion nombre="Leganés Central" longitud="-3.7712" latitud="40.3279" x="443" y="1106">
+ 			<Correspondencias>
+				<Correspondencia linea="CR" estacion="Leganés Central"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="San Nicasio" longitud="-3.7729" latitud="40.3361" x="427" y="1078"></Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="Ramal Opera - Príncipe Pío" numero="LR" nlinea="LR">
+		<Estacion nombre="Opera" longitud="-3.7101" latitud="40.4178" x="633" y="696">
+			<Correspondencias>
+				<Correspondencia linea="L2" estacion="Opera"/>
+				<Correspondencia linea="L5" estacion="Opera"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Príncipe Pío" longitud="-3.7201" latitud="40.4203" x="551" y="640">
+			<Correspondencias>
+				<Correspondencia linea="L6" estacion="Príncipe Pío"/>
+				<Correspondencia linea="L10" estacion="Príncipe Pío"/>
+				<Correspondencia linea="CR" estacion="Príncipe Pío"/>
+				<Correspondencia linea="AI" estacion="Príncipe Pío"/>
+			</Correspondencias>
+		</Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="Pinar de Chamartín - Las Tablas" numero="ML1" nlinea="ML1">
+		<Estacion nombre="Pinar de Chamartín" longitud="-3.6659" latitud="40.4814" x="965" y="241">
+			<Correspondencias>
+				<Correspondencia linea="L1" estacion="Pinar de Chamartín"/>
+				<Correspondencia linea="L4" estacion="Pinar de Chamartín"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Fuente de la Mora" longitud="-3.6630" latitud="40.4853" x="981" y="221"></Estacion>
+		<Estacion nombre="Virgen del Cortijo" longitud="-3.6602" latitud="40.4877" x="992" y="200"></Estacion>
+		<Estacion nombre="Antonio Saura" longitud="-3.6533" latitud="40.4859" x="981" y="179"></Estacion>
+		<Estacion nombre="Álvarez de Villamil" longitud="-3.6515" latitud="40.4902" x="950" y="174"></Estacion>
+		<Estacion nombre="Blasco Ibáñez" longitud="-3.6558" latitud="40.4943" x="900" y="172"></Estacion>
+		<Estacion nombre="María Tudor" longitud="-3.6585" latitud="40.4980" x="866" y="163"></Estacion>
+		<Estacion nombre="Palas de Rey" longitud="-3.6654" latitud="40.5060" x="834" y="147"></Estacion>
+		<Estacion nombre="Las Tablas" longitud="-3.6673" latitud="40.5083" x="813" y="124">
+			<Correspondencias>
+				<Correspondencia linea="L10" estacion="Las Tablas"/>
+			</Correspondencias>
+		</Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="Colonia Jardín - Estación de Aravaca" numero="ML2" nlinea="ML2">
+		<Estacion nombre="Colonia Jardín" longitud="-3.7744" latitud="40.3970" x="357" y="806">
+			<Correspondencias>
+				<Correspondencia linea="L10" estacion="Colonia Jardín"/>
+				<Correspondencia linea="ML3" estacion="Colonia Jardín"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Prado de la Vega" longitud="-3.7813" latitud="40.4026" x="307" y="749"></Estacion>
+		<Estacion nombre="Colonia de los Ángeles" longitud="-3.7848" latitud="40.4085" x="284" y="714"></Estacion>
+		<Estacion nombre="Prado del Rey" longitud="-3.7875" latitud="40.4110" x="263" y="683"></Estacion>
+		<Estacion nombre="Somosaguas Sur" longitud="-3.7925" latitud="40.4159" x="243" y="657"></Estacion>
+		<Estacion nombre="Somosaguas Centro" longitud="-3.7981" latitud="40.4196" x="221" y="631"></Estacion>
+		<Estacion nombre="Pozuelo Oeste" longitud="-3.8073" latitud="40.4311" x="199" y="599"></Estacion>
+		<Estacion nombre="Bélgica" longitud="-3.8073" latitud="40.4311" x="195" y="508"></Estacion>
+		<Estacion nombre="Dos Castillas" longitud="-3.8010" latitud="40.4332" x="229" y="484"></Estacion>
+		<Estacion nombre="Campus de Somosaguas" longitud="-3.7949" latitud="40.4342" x="256" y="467"></Estacion>
+		<Estacion nombre="Avenida de Europa" longitud="-3.7931" latitud="40.4398" x="276" y="450"></Estacion>
+		<Estacion nombre="Berna" longitud="-3.7909" latitud="40.4469" x="291" y="430"></Estacion>
+		<Estacion nombre="Estación de Aravaca" longitud="-3.7853" latitud="40.4475" x="308" y="413"></Estacion>
+	</Linea>
+	
+	
+	<Linea nombre="Colonia Jardín - Puerta de Boadilla" numero="ML3" nlinea="ML3">
+		<Estacion nombre="Colonia Jardín" longitud="-3.7744" latitud="40.3970" x="357" y="806">
+			<Correspondencias>
+				<Correspondencia linea="L10" estacion="Colonia Jardín"/>
+				<Correspondencia linea="ML2" estacion="Colonia Jardín"/>
+			</Correspondencias>
+		</Estacion>
+		<Estacion nombre="Ciudad de la Imagen" longitud="-3.7836" latitud="40.3982" x="319" y="801"></Estacion>
+		<Estacion nombre="José Isbert" longitud="-3.7896" latitud="40.3963" x="294" y="809"></Estacion>
+		<Estacion nombre="Ciudad del Cine" longitud="-3.7954" latitud="40.3957" x="269" y="813"></Estacion>
+		<Estacion nombre="Cocheras" longitud="-3.8071" latitud="40.3996" x="240" y="807"></Estacion>
+		<Estacion nombre="Retamares" longitud="-3.8171" latitud="40.3997" x="225" y="795"></Estacion>
+		<Estacion nombre="Montepríncipe" longitud="-3.8344" latitud="40.3997" x="204" y="789"></Estacion>
+		<Estacion nombre="Ventorro del Cano" longitud="-3.8366" latitud="40.3962" x="183" y="786"></Estacion>
+		<Estacion nombre="Prado del Espino" longitud="-3.8501" latitud="40.3961" x="160" y="784"></Estacion>
+		<Estacion nombre="Cantabria" longitud="-3.8653" latitud="40.3961" x="138" y="781"></Estacion>
+		<Estacion nombre="Ferial de Boadilla" longitud="-3.8794" latitud="40.4034" x="118" y="773"></Estacion>
+		<Estacion nombre="Boadilla Centro" longitud="-3.8799" latitud="40.4083" x="98" y="766"></Estacion>
+		<Estacion nombre="Nuevo Mundo" longitud="-3.8852" latitud="40.4068" x="76" y="764"></Estacion>
+		<Estacion nombre="Siglo XXI" longitud="-3.8936" latitud="40.4061" x="54" y="763"></Estacion>
+		<Estacion nombre="Infante Don Luís" longitud="-3.8969" latitud="40.4067" x="33" y="763"></Estacion>
+		<Estacion nombre="Puerta de Boadilla" longitud="-3.9021" latitud="40.4086" x="12" y="760"></Estacion>
+	</Linea>
+</Lineas>

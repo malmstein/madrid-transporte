@@ -11,7 +11,7 @@
         android:background="#42BDEF" />
     
     <com.astuetz.viewpager.extensions.FixedTabsView
-        android:id="@+id/fixed_icon_tabs"
+        android:id="@+id/calcula_ruta_icon_tabs"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:background="#39B5EF"
@@ -24,11 +24,11 @@
         android:id="@+id/shadow"
         android:layout_width="fill_parent"
         android:layout_height="3dip"
-        android:layout_below="@+id/fixed_icon_tabs"
+        android:layout_below="@+id/calcula_ruta_icon_tabs"
         android:background="@drawable/shadow" />
 
     <android.support.v4.view.ViewPager
-        android:id="@+id/pager"
+        android:id="@+id/calcula_ruta_pager"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:layout_below="@+id/shadow" />

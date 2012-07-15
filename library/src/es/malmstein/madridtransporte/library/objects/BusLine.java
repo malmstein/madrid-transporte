@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import android.database.Cursor;
 
-public class Line
+public class BusLine
 {
   String date = "";
   String dayType = "";

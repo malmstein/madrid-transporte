@@ -13,10 +13,11 @@ public class MTSharedPreference {
 	
     // Methods for the API Calls
     public static class PREFERENCES{
-        public final static String DEFAULT_TRANSPORT = "default_transport";
-        public final static String DEFAULT_BUS_PAGE = "default_bus_page";
-        public final static String DEFAULT_METRO_PAGE = "default_metro_page";
-        public final static String DEFAULT_TRAIN_PAGE = "default_train_page";
+        public final static String DEFAULT_CALCULA_RUTA = "default_calcula_ruta";
+        public final static String DEFAULT_ESTACIONES_CERCANAS = "default_estaciones_cercanas";  
+        
+        public final static String DEFAULT_INCIDENCIAS = "default_inidencias";  
+        public final static String DEFAULT_TARIFAS = "default_tarifas";           
     }
 
 	private static MTSharedPreference sMTUserPreferenceObject 	= null;

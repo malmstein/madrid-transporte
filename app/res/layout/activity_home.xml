@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/ib_calcula_ruta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"                   
+        android:drawableTop="@drawable/contacts"
+        android:gravity="center"
+        android:text="@string/main_btn_como_llegar" />
+    
+  	<Button
+        android:id="@+id/ib_estaciones_cercanas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"        
+        android:gravity="center"     
+        android:layout_below="@+id/ib_calcula_ruta"   
+        android:drawableTop="@drawable/favourites"
+        android:text="@string/main_btn_estaciones_cercanas" />
+  	
+  	<Button
+        android:id="@+id/ib_info_bus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:layout_gravity="center"     
+        android:layout_below="@+id/ib_estaciones_cercanas"   
+        android:drawableTop="@drawable/groups"
+        android:text="@string/main_btn_info_bus" />  	
+        
+  	<Button
+        android:id="@+id/ib_info_metro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:layout_gravity="center"     
+        android:layout_below="@+id/ib_estaciones_cercanas"   
+        android:layout_toRightOf="@+id/ib_info_bus"
+        android:drawableTop="@drawable/contacts"
+        android:text="@string/main_btn_info_metro" />  
+        
+  	<Button
+        android:id="@+id/ib_info_cercanias"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:layout_gravity="center"     
+        android:layout_toRightOf="@+id/ib_info_metro"
+        android:layout_below="@+id/ib_estaciones_cercanas"   
+        android:drawableTop="@drawable/contacts"
+        android:text="@string/main_btn_info_cercanias" />  		
+
+</RelativeLayout>

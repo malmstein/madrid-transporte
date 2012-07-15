@@ -2,17 +2,17 @@ package es.malmstein.madridtransporte.library.response;
 
 import java.util.List;
 
-import es.malmstein.madridtransporte.library.objects.Stop;
+import es.malmstein.madridtransporte.library.objects.BusStop;
 
 public class GetStopsFromXYResponse {
 
-	private List<Stop> stopsList;	
+	private List<BusStop> stopsList;	
 
-	public List<Stop> getData() {
+	public List<BusStop> getData() {
 		return stopsList;
 	}
 
-	public void setData(List<Stop> data) {
+	public void setData(List<BusStop> data) {
 		this.stopsList = data;
 	}
 	

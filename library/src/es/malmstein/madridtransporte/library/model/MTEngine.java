@@ -38,7 +38,8 @@ import android.text.TextUtils;
 
 import com.bugsense.trace.BugSenseHandler;
 
-import es.malmstein.madridtransporte.library.objects.Stop;
+import es.malmstein.madridtransporte.library.objects.BusStop;
+import es.malmstein.madridtransporte.library.objects.MetroLine;
 import es.malmstein.madridtransporte.library.parsers.XMLStopsReader;
 import es.malmstein.madridtransporte.library.requests.GetStopsFromXYRequest;
 import es.malmstein.madridtransporte.library.requests.Request;
@@ -51,6 +52,16 @@ public class MTEngine {
 	private static MTEngine instance;
 	private Context context;
 	
+	private ArrayList<MetroLine> localMetroLines = new ArrayList<MetroLine>();
+	
+	public ArrayList<MetroLine> getLocalMetroLines() {
+		return localMetroLines;
+	}
+
+	public void setLocalMetroLines(ArrayList<MetroLine> localMetroLines) {
+		this.localMetroLines = localMetroLines;
+	}
+
 	public Context getContext() {
 		return context;
 	}
@@ -84,7 +95,7 @@ public class MTEngine {
 		InputSource source;		
 		try{
 			 source = secureRequest(request);
-			 List<Stop> localList2 = new XMLStopsReader().parse(source);
+			 List<BusStop> localList2 = new XMLStopsReader().parse(source);
 			 response.setData(localList2);
 		}catch (Exception e){
 			response.setData(null);

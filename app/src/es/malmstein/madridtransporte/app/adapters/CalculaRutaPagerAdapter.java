@@ -8,12 +8,11 @@ import es.malmstein.madridtransporte.app.fragments.BusMainFragment;
 import es.malmstein.madridtransporte.app.fragments.CercaniasMainFragment;
 import es.malmstein.madridtransporte.app.fragments.MetroMainFragment;
 
-
-public class MainPagerAdapter extends FragmentPagerAdapter {
+public class CalculaRutaPagerAdapter extends FragmentPagerAdapter {
 	
 	protected Context mContext;
 		
-	public MainPagerAdapter(FragmentManager fm) {
+	public CalculaRutaPagerAdapter(FragmentManager fm) {
 		super(fm);
 	}
 	
