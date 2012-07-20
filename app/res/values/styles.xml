@@ -24,8 +24,8 @@
     </style>
     
    	<style name="ActionBar" parent="Widget.Sherlock.ActionBar">
-        <item name="background">@color/darkgrey</item>
-        <item name="android:background">@color/darkgrey</item>
+        <item name="background">@color/dark_grey</item>
+        <item name="android:background">@color/dark_grey</item>
     </style>
     
     <style name="DropDownListView" parent="Widget.Sherlock.ListView.DropDown">

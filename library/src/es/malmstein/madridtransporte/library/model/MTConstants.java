@@ -45,5 +45,10 @@ public class MTConstants {
         public final static String LOADING = "loading";
         public final static String ASYNC_TASK = "async_task";        
     }
+    
+    // Loaders identifiers
+    public static class LOADER{
+    	public final static int EMT_INCIDENCIAS = 25000;
+    }
 
 }

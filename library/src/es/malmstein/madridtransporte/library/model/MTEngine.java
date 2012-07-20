@@ -38,12 +38,13 @@ import android.text.TextUtils;
 
 import com.bugsense.trace.BugSenseHandler;
 
-import es.malmstein.madridtransporte.library.objects.BusStop;
+import es.malmstein.madridtransport.library.R;
+import es.malmstein.madridtransporte.library.objects.EMTNews;
 import es.malmstein.madridtransporte.library.objects.MetroLine;
-import es.malmstein.madridtransporte.library.parsers.XMLStopsReader;
-import es.malmstein.madridtransporte.library.requests.GetStopsFromXYRequest;
+import es.malmstein.madridtransporte.library.objects.MetroNews;
+import es.malmstein.madridtransporte.library.parsers.EMTNewsParserHandler;
+import es.malmstein.madridtransporte.library.parsers.MetroNewsParser;
 import es.malmstein.madridtransporte.library.requests.Request;
-import es.malmstein.madridtransporte.library.response.GetStopsFromXYResponse;
 import es.malmstein.madridtransporte.library.utils.EasySSLSocketFactory;
 import es.malmstein.madridtransporte.library.utils.LibraryUtils;
 
@@ -53,6 +54,34 @@ public class MTEngine {
 	private Context context;
 	
 	private ArrayList<MetroLine> localMetroLines = new ArrayList<MetroLine>();
+	private ArrayList<EMTNews> localEMTIncidencias = new ArrayList<EMTNews>();
+	private ArrayList<MetroNews> localMetroIncidencias = new ArrayList<MetroNews>();
+	
+	// Constructors 
+	
+	public ArrayList<EMTNews> getLocalEMTIncidencias() {
+		return localEMTIncidencias;
+	}
+
+	public void setLocalEMTIncidencias(ArrayList<EMTNews> localEMTIncidencias) {
+		this.localEMTIncidencias = localEMTIncidencias;
+	}
+	
+	public boolean hasLocalEMTIncidencias(){
+		return localEMTIncidencias.size() > 0;
+	}
+	
+	public ArrayList<MetroNews> getLocalMetroIncidencias() {
+		return localMetroIncidencias;
+	}
+
+	public void setLocalMetroIncidencias(ArrayList<MetroNews> localMetroIncidencias) {
+		this.localMetroIncidencias = localMetroIncidencias;
+	}
+	
+	public boolean hasLocalMetroIncidencias(){
+		return localMetroIncidencias.size() > 0;
+	}
 	
 	public ArrayList<MetroLine> getLocalMetroLines() {
 		return localMetroLines;
@@ -90,18 +119,48 @@ public class MTEngine {
 		return instance;
 	}
 	
-	public GetStopsFromXYResponse getStopsFromXY(GetStopsFromXYRequest request){
-		GetStopsFromXYResponse response = new GetStopsFromXYResponse();		
-		InputSource source;		
+	/**
+	 * Parser de incidencias de la EMT, se basa en leer de su RSS
+	 * @return
+	 */
+	public ArrayList<EMTNews> parseEMTIncidencias(){
 		try{
-			 source = secureRequest(request);
-			 List<BusStop> localList2 = new XMLStopsReader().parse(source);
-			 response.setData(localList2);
-		}catch (Exception e){
-			response.setData(null);
-		}
+			ArrayList<EMTNews> localNews = new ArrayList<EMTNews>();
+			
+			EMTNewsParserHandler saxparser = new EMTNewsParserHandler(context.getString(R.string.emt_incidencias_rss));
+			localNews = saxparser.parse();
+			
+			if (localNews != null){
+				setLocalEMTIncidencias(localNews);				
+			}
+			
+			return localNews;
+			
+		} catch (Exception localException) {
+			return new ArrayList<EMTNews>();			
+		}  
+	}
+	
+	/**
+	 * Parser de noticias del Metro, con jsoup se parsea la p‡gina de noticias y se cogen los datos
+	 * @return
+	 */
+	public ArrayList<MetroNews> parseMetroIncidencias(){
 		
-		return response;
+		try{
+			ArrayList<MetroNews> localMetroNews = new ArrayList<MetroNews>();
+			MetroNewsParser localMetroNewsParser = new MetroNewsParser(context.getString(R.string.metro_incidencias_html), context.getString(R.string.metro_root));
+			
+			localMetroNews = localMetroNewsParser.parse();
+			
+			if (localMetroNews != null){
+				setLocalMetroIncidencias(localMetroNews);
+			}
+			
+			return localMetroNews;
+		}catch (Exception e){
+			return new ArrayList<MetroNews>();
+		}
 	}
 	
 	/**

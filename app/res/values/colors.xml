@@ -16,6 +16,12 @@
 <resources>
 
     <color name="bg_transparent">#00000000</color>
-    <color name="darkgrey">#646464</color>
-	
+    
+    <color name="blanco">#ffffffff</color>
+    <color name="negro">#ff000000</color>
+    <color name="azul_cielo">#ff007fff</color>
+    <color name="azul_oscuro">#ff2244ff</color>
+   	<color name="clear_gray">#ff8a8a8a</color>
+	<color name="dark_grey">#646464</color>
+	  
 </resources>

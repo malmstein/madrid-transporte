@@ -6,13 +6,15 @@
     <uses-sdk
         android:minSdkVersion="7"
         android:targetSdkVersion="15" />
-
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+    
     <application
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:name=".MTApp"
         android:theme="@style/AppTheme" >
-        
+
         <activity 
             android:name="es.malmstein.madridtransporte.app.ui.SplashScreen"
             android:theme="@style/AppTheme_NoTitle"
@@ -32,7 +34,7 @@
         
         <activity
             android:name="es.malmstein.madridtransporte.app.ui.Incidencias"
-            android:label="@string/title_activity_estaciones_cercanas">
+            android:label="@string/title_activity_incidencias">
             
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
@@ -40,7 +42,7 @@
         </activity>      
         
         <activity
-            android:name=".ui.Favoritos"
+            android:name="es.malmstein.madridtransporte.app.ui.Favoritos"
             android:label="@string/title_activity_estaciones_cercanas">
             
             <meta-data
@@ -49,7 +51,7 @@
         </activity>    
         
         <activity
-            android:name=".ui.Tarifas"
+            android:name="es.malmstein.madridtransporte.app.ui.Tarifas"
             android:label="@string/title_activity_tarifas">
             
             <meta-data
@@ -58,7 +60,7 @@
         </activity>              
                        
         <activity
-            android:name=".ui.CalculaRuta"
+            android:name="es.malmstein.madridtransporte.app.ui.CalculaRuta"
             android:label="@string/title_activity_calcula_ruta">
             
             <meta-data
@@ -67,7 +69,7 @@
         </activity>   
         
         <activity
-            android:name=".ui.EstacionesCercanas"
+            android:name="es.malmstein.madridtransporte.app.ui.EstacionesCercanas"
             android:label="@string/title_activity_estaciones_cercanas">
             
             <meta-data
@@ -76,7 +78,7 @@
         </activity>
         
         <activity
-            android:name=".ui.InfoBus"
+            android:name="es.malmstein.madridtransporte.app.ui.InfoBus"
             android:label="@string/title_activity_info_bus">
             
             <meta-data
@@ -85,7 +87,7 @@
         </activity>     
         
         <activity
-            android:name=".ui.InfoMetro"
+            android:name="es.malmstein.madridtransporte.app.ui.InfoMetro"
             android:label="@string/title_activity_info_metro">
             
             <meta-data
@@ -94,7 +96,7 @@
         </activity>     
         
         <activity
-            android:name=".ui.InfoCercanias"
+            android:name="es.malmstein.madridtransporte.app.ui.InfoCercanias"
             android:label="@string/title_activity_info_cercanias">
             
             <meta-data

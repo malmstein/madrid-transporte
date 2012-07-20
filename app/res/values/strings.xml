@@ -20,8 +20,8 @@
     <string name="main_btn_como_llegar">¿Cómo llegar?</string>
     <string name="main_btn_tiempos_espera"></string>
     <string name="main_btn_estaciones_cercanas">Estaciones Cercanas</string>
-    <string name="main_btn_info_bus">Paradas Bus</string>
-    <string name="main_btn_info_metro">Estaciones Metro</string>
-	<string name="main_btn_info_cercanias">Estaciones Cercanías</string>
+    <string name="main_btn_info_bus">Bus</string>
+    <string name="main_btn_info_metro">Metro</string>
+	<string name="main_btn_info_cercanias">Cercanías</string>
 	
 </resources>

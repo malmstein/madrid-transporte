@@ -37,15 +37,15 @@ public class MainActivity extends MTActivity implements OnClickListener {
         
         menu.add(0, R.string.menu_title_incidencias, 1, getString(R.string.menu_title_incidencias))                
         .setIcon(R.drawable.ic_action_preferences)        
-        .setShowAsAction(MenuItem.SHOW_AS_ACTION_IF_ROOM);
+        .setShowAsAction(MenuItem.SHOW_AS_ACTION_NEVER);
         
         menu.add(0, R.string.menu_title_tarifas, 2, getString(R.string.menu_title_tarifas))                
         .setIcon(R.drawable.ic_action_preferences)        
-        .setShowAsAction(MenuItem.SHOW_AS_ACTION_IF_ROOM);
+        .setShowAsAction(MenuItem.SHOW_AS_ACTION_NEVER);
         
         menu.add(0, R.string.menu_title_about, 3, getString(R.string.menu_title_about))                
         .setIcon(R.drawable.ic_action_preferences)        
-        .setShowAsAction(MenuItem.SHOW_AS_ACTION_IF_ROOM);        
+        .setShowAsAction(MenuItem.SHOW_AS_ACTION_NEVER);        
         
         return true;
     }  
