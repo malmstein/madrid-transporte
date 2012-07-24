@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="horizontal"
+  android:layout_width="fill_parent"
+  android:layout_height="48dip">
+
+    <TextView
+        android:id="@+id/accordion_item_name"
+        android:layout_width="fill_parent"
+        android:layout_height="47dip"
+        android:layout_marginLeft="10dp"
+        android:text="TextView"
+        android:textSize="16sp"       
+        android:layout_alignParentRight="true"
+        android:gravity="center|left"
+        android:layout_centerVertical="true"        
+        android:layout_toLeftOf="@+id/accordion_item_arrow"
+        android:textColor="@color/dark_grey" />
+    
+    <ImageView
+        android:id="@+id/accordion_item_image"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"	
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/accordion_item_name"	
+        android:src="@drawable/splitter"
+        android:scaleType="fitXY"/>          
+
+</RelativeLayout>

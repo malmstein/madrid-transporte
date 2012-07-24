@@ -1,7 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-
     <string name="app_name">Madrid Transporte</string>
-    
     <string name="title_activity_main">Madrid Transporte</string>
     <string name="title_activity_calcula_ruta">Calcula tu ruta</string>
     <string name="title_activity_estaciones_cercanas">Estaciones Cercanas</string>
@@ -11,17 +10,16 @@
     <string name="title_activity_incidencias">Incidencias</string>
     <string name="title_activity_favoritos">Favoritos</string>
     <string name="title_activity_tarifas">Tarifas</string>
-    
     <string name="menu_title_incidencias">Incidencias</string>
     <string name="menu_title_favoritos">Favoritos</string>
     <string name="menu_title_tarifas">Tarifas</string>
     <string name="menu_title_about">Acerca de</string>
-    
     <string name="main_btn_como_llegar">¿Cómo llegar?</string>
-    <string name="main_btn_tiempos_espera"></string>
     <string name="main_btn_estaciones_cercanas">Estaciones Cercanas</string>
     <string name="main_btn_info_bus">Bus</string>
     <string name="main_btn_info_metro">Metro</string>
-	<string name="main_btn_info_cercanias">Cercanías</string>
-	
+    <string name="main_btn_info_cercanias">Cercanías</string>
+    <string name="menu_title_search">Buscar
+</string>
+    <string name="search_hint">Busca una estación</string>
 </resources>

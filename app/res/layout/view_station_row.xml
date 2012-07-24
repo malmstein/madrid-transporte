@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="horizontal"
+  android:layout_width="fill_parent"
+  android:layout_height="48dip">
+
+    <TextView
+        android:id="@+id/view_station_name"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="10dp"
+        android:textSize="16sp"       
+        android:layout_alignParentLeft="true"       
+        android:gravity="center|left"
+        android:layout_centerVertical="true"                
+        android:textColor="@color/dark_grey" />
+    
+   	<LinearLayout 
+   	    android:id="@+id/view_station_layout" 
+   	    android:gravity="right|center" 
+   	    android:orientation="horizontal" 
+   	    android:layout_width="fill_parent" 
+   	    android:layout_height="fill_parent"
+   	    android:layout_toRightOf="@+id/view_station_name"
+   	    android:layout_centerVertical="true" />      
+
+</RelativeLayout>

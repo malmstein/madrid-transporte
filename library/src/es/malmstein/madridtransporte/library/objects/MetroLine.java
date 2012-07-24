@@ -2,7 +2,6 @@ package es.malmstein.madridtransporte.library.objects;
 
 import java.io.Serializable;
 import java.util.ArrayList;
-import java.util.List;
 
 public class MetroLine
   implements Serializable
@@ -14,7 +13,7 @@ public class MetroLine
   private String nlinea;
   private String nombre;
 
-  public List<MetroStation> getEstaciones()
+  public ArrayList<MetroStation> getEstaciones()
   {
     return this.estaciones;
   }
